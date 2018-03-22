@@ -1,0 +1,86 @@
+PROBLEMAS - REDES GUARANI
+
+1. Títulos e subtítulos de capítulos
+	Alguns capítulos têm subtítulo, entrando como parte total do título. Padronizar.
+
+2. Referências
+	Padronização, escolha do padrão. \itemize não ficou bom; \bibliohedra ficou muito pequeno. Averiguar.
+
+3. Notas de outros autores nos finais dos capítulos
+	A maioria dos artigos parece ter comentários finais elaborados por outros autores. Estão separadas por \section e assinadas apenas no final, o que torna muito confuso ao leitor o entendimento de quem escreveu o quê. Elaborar uma seção de comentários, padronizando todos os textos de terceiros. (Idealmente excluir esses comentários finais)
+
+4. Caracteres em guarani que não estão rodando + configurar trecho bilíngue com problema de diagramação 
+	Vf. capítulo "Tornar-se adulto sem deixar de ser gente". Ctrl+F: Ha’e ko kunhãgue’i
+	Caracteres com problema e textos bilíngues diagramados em formato de tabela estão ultrapassando margens. Checar possibilidade de fazê-los em formato \begin{quotation} com os textos em guarani em páginas pares e o equivalente em português nas ímpares. 
+
+5. "Um tekoa, uma cidade e a sidade"
+	O que é sidade???
+
+
+6. Vf. caractere M\=aori 
+	\emph{Renée Kahukura\footnote{Repórter da M\=aori Television}} e em todo o capítulo
+
+
+24/01/2018 --> diagramação até l:8769
+
+7. Vf. caractere Pa${greek{~i}}$ (l.9697)
+	" chamadas de chiripas; os Pa${greek{~i}}$ utilizavam ponchos "
+
+
+8. Vf. diagramação do trecho
+	Existem cerca de trinta áreas de coabitação entre grupos Mbya e Chiripa no sul do Brasil, que somam aproximadamente 5.500 índios (BRASIL/SESAI, 2013\footnote{Disponível em: {less}http://portalsaude.saude.gov.br/index.php/o-ministerio/principal/leia-mais-o-ministerio/70-sesai/9518-siasi{greater}.}).
+
+
+9. Vf. diagramação da url no pdf
+	Em algumas dessas aldeias há co-residência entre os Tupi Guarani, Guarani Mbya e Terena. (Fonte: http:// www.cpisp.org.br/indios/html/uf.aspx?ID=SP, informações de 2012).}
+
+
+10. Vf. diagramação da url no pdf
+	Para consultar o blog, acesse: {less}http://aldeiarenascer.blogspot.com{greater}.} No primeiro dia e no último dia em que a equipe do GT esteve na aldeia
+
+
+11. Vf. caractere \emph{Papa Mir\~{i} Poty (Carlos Fernandes)} 
+
+
+**
+(As imagens listadas a seguir pertencem ao capítulo "Os Mbya desceram o Araguaia: parentesco e dispersão". Todas precisam ser tratadas, são diagramas de parentesco e provavelmente estão ilegíveis)
+
+12. /img/GUARANIS-img9.jpg
+	Imagem inexistente na pasta, mas presente no arquivo original (.docx).
+
+
+13. img/GUARANIS-img10.jpg
+	Tratar imagem e excluir legenda embutida na figura.
+
+
+14. img/GUARANIS-img11.jpg
+	Tratar imagem e excluir legenda embutida na figura.
+
+
+15. img/GUARANIS-img12.jpg
+	Tratar imagem e excluir legenda embutida na figura.
+
+**
+
+16. Carta final
+	Creio que seja melhor transformá-la em capítulo. Seria necessário adicionar os dados dos participantes de volume como signatários da carta?? 
+
+17. /img/GUARANIS-img2.jpg
+	Imagem sem legenda (também não há legenda no arquivo original .docx)
+	
+30/01/2018 --> diagramação até o final
+
+
+---------------------------------
+CÓDIGO PARA INSERÇÃO DE FIGURAS
+
+\begin{figure}
+  \centering
+ \includegraphics[width=\textwidth]{./img/GUARANIS-img1.jpg}	
+  \hfill
+  \caption{Mulheres Kaiowá e Guarani durante Aty Guasu, grande assembleia desses
+povos, na Terra Indígena Panambi-Lagoa Rica, em Douradina (MS). Foto:
+Marcello Casal Jr./Agência Brasil, 2012.}
+\end{figure}
+
+
