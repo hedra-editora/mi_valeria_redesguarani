@@ -6,6 +6,25 @@
 \usepackage{gitrevisioninfo}
 \usepackage{supertabular}
 
+\makeatletter
+\newenvironment{Parskip}{%
+   \par
+   \parskip=0.3\baselineskip \advance\parskip by 0pt plus 2pt
+   \parindent=\z@
+   \def\@listI{\leftmargin\leftmargini
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \let\@listi\@listI
+   \@listi
+   \def\@listii{\leftmargin\leftmarginii
+      \labelwidth\leftmarginii\advance\labelwidth-\labelsep
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \def\@listiii{\leftmargin\leftmarginiii
+       \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
+       \topsep\z@ \parsep\parskip \itemsep\z@}
+   \partopsep=\z@
+}{\par}
+\makeatother
+
 \begin{document}
 
 \include{INPUTS}

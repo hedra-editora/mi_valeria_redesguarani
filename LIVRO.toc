@@ -46,7 +46,7 @@
 \contentsline {section}{De provedores e predadores}{202}
 \contentsline {section}{O não se acostumar}{207}
 \contentsline {section}{Referências}{217}
-\contentsline {section}{Comentário}{219}
+\contentsline {section}{Comentário}{220}
 \contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{221}
 \contentsline {section}{Referências}{236}
 \contentsline {part}{Tecnologias, circulação e transformação}{239}
@@ -83,7 +83,7 @@
 \contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{343}
 \contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{347}
 \contentsline {section}{Referências}{348}
-\contentsline {section}{Comentário final}{349}
+\contentsline {section}{Comentário final}{350}
 \contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{351}
 \contentsline {section}{Introdução}{351}
 \contentsline {section}{Partidas e chegadas}{353}
