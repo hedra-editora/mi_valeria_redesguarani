@@ -232,6 +232,8 @@ INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
 INPUT /usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 INPUT /usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
+INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
+INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 INPUT LIVRO.aux
 INPUT LIVRO.aux
 INPUT INPUTS.aux

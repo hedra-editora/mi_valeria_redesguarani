@@ -26,7 +26,7 @@
 \contentsline {section}{A escola e os modos próprios de aprendizado guarani}{108}
 \contentsline {section}{Referências}{112}
 \contentsline {chapter}{Tornar-se adulto sem deixar de ser gente: fazer (crescer) parentes}{115}
-\contentsline {section}{Referências}{141}
+\contentsline {section}{Referências}{140}
 \contentsline {part}{Conexões, alteridades, alterações}{143}
 \contentsline {chapter}{O que nos levanta sobre a terra: alegria e saudade fazendo parentesco}{147}
 \contentsline {section}{Palavras em movimento}{150}
