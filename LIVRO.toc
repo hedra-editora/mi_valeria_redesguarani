@@ -65,7 +65,7 @@
 \contentsline {section}{Sem fronteiras}{288}
 \contentsline {section}{Referências}{289}
 \contentsline {part}{Nas aldeias e entre aldeias}{291}
-\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em MS}{295}
+\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{295}
 \contentsline {section}{Antecedentes}{298}
 \contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{312}
 \contentsline {section}{Referências}{314}
@@ -79,7 +79,7 @@
 \contentsline {section}{Comentário final}{332}
 \contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{333}
 \contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{336}
-\contentsline {section}{Iniciativas de valorização cultural na TI Piaçaguera}{339}
+\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{339}
 \contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{343}
 \contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{347}
 \contentsline {section}{Referências}{348}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.3.26)  16 APR 2018 18:05
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.3.26)  17 APR 2018 15:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1546,6 +1546,9 @@ saudade fazendo
  []
 
 [5]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+
 Overfull \hbox (7.62288pt too wide) in paragraph at lines 68--68
 []|\TU/LinuxLibertineO(0)/m/n/10.95 Mobilidade, modalidades de assentamentos e 
 formas organizacionais 
@@ -1589,6 +1592,8 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
 '.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [25] [26
 
 ]
@@ -1611,7 +1616,10 @@ File: ./img/GUARANIS-img2.jpg Graphic file (type bmp)
 
 ] [34] [35] [36
 
-] [37] [38] [39] [40] [41] [42] [43] [44]
+] [37]
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+ [38] [39] [40] [41] [42] [43] [44]
 Underfull \hbox (badness 1997) in paragraph at lines 1009--1013
 []\TU/LinuxLibertineO(0)/m/n/12 Na luta política frente ao Estado Nacional, as 
 lideranças
@@ -1666,7 +1674,19 @@ Overfull \vbox (2.04218pt too high) has occurred while \output is active []
 Overfull \vbox (19.656pt too high) has occurred while \output is active []
 
 
-[63] [64] [65] [66] [67]
+[63] [64] [65]
+Underfull \hbox (badness 1168) in paragraph at lines 1716--1719
+[]\TU/LinuxLibertineO(0)/m/sc/12 de la cadena\TU/LinuxLibertineO(0)/m/n/12 , Ma
+risol. Política indígena: um análisis más
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 1716--1719
+\TU/LinuxLibertineO(0)/m/n/12 allá de ‘la política’. \TU/LinuxLibertineO(0)/m/s
+c/12 wan e\TU/LinuxLibertineO(0)/m/n/12 -Journal 4, 2008. Disponível em
+ []
+
+[66] [67]
 Underfull \hbox (badness 1681) in paragraph at lines 1801--1805
 \TU/LinuxLibertineO(0)/m/n/12 mopolítico: da necessidade extensiva à suficiênci
 a intensiva”.
@@ -1738,60 +1758,52 @@ Overfull \vbox (14.45598pt too high) has occurred while \output is active []
 
 
 [121]
-Underfull \hbox (badness 1975) in paragraph at lines 3357--3362
-\TU/LinuxLibertineO(0)/m/n/12 oĩ aguã, ndoipotai okuapy. Ndoipotai
+Underfull \hbox (badness 2213) in paragraph at lines 3374--3379
+\TU/LinuxLibertineO(0)/m/n/9 py ma ymagua kuery ijayvu va’ekue
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 3376--3380
-\TU/LinuxLibertineO(0)/m/n/12 ramo-ramo va’e, ikã guaxu-guaxu va’e,
+Underfull \hbox (badness 10000) in paragraph at lines 3374--3379
+\TU/LinuxLibertineO(0)/m/n/9 gua’y kuery pe, omongeta va’ekue.
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 3376--3380
-\TU/LinuxLibertineO(0)/m/n/12 Penekã ma” he’i, “penekãmba ma” he’i,
+Underfull \hbox (badness 1365) in paragraph at lines 3381--3385
+\TU/LinuxLibertineO(0)/m/n/9 omongeta: “Anyĩ ke, xememby, yakã
  []
 
 
-Overfull \hbox (116.41563pt too wide) in paragraph at lines 3356--3409
+Overfull \hbox (0.7843pt too wide) in paragraph at lines 3356--3419
 []  
  []
 
-[122]
-Overfull \vbox (2.12604pt too high) has occurred while \output is active []
-
-
-[123] [124] [125]
-Overfull \hbox (116.40903pt too wide) in paragraph at lines 3448--3459
+[122] [123]
+Overfull \hbox (116.40903pt too wide) in paragraph at lines 3459--3468
 []  
  []
 
-[126]
-Overfull \vbox (8.32506pt too high) has occurred while \output is active []
-
-
-[127]
-Overfull \hbox (116.41565pt too wide) in paragraph at lines 3549--3566
+[124] [125] [126] [127]
+Overfull \hbox (116.41565pt too wide) in paragraph at lines 3560--3577
 []  
  []
 
 [128]
-Overfull \hbox (116.41673pt too wide) in paragraph at lines 3584--3608
+Overfull \hbox (116.41673pt too wide) in paragraph at lines 3595--3619
 []  
  []
 
 [129] [130] [131] [132] [133]
-Underfull \hbox (badness 1014) in paragraph at lines 3770--3772
+Underfull \hbox (badness 1014) in paragraph at lines 3781--3783
 []\TU/LinuxLibertineO(0)/m/n/12 Ha’e rami ma yma ikuai, ha’e rami vy
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 3780--3783
+Underfull \hbox (badness 1924) in paragraph at lines 3791--3794
 []\TU/LinuxLibertineO(0)/m/n/12 Quando temos a primeira menstruação,
  []
 
 
-Overfull \hbox (116.41673pt too wide) in paragraph at lines 3754--3804
+Overfull \hbox (116.41673pt too wide) in paragraph at lines 3765--3815
 []  
  []
 
@@ -1800,47 +1812,47 @@ Overfull \vbox (9.3271pt too high) has occurred while \output is active []
 
 
 [135] [136]
-Underfull \hbox (badness 1199) in paragraph at lines 3875--3879
+Underfull \hbox (badness 1199) in paragraph at lines 3886--3890
 \TU/LinuxLibertineO(0)/m/n/12 ka’aguy, tembiapo; pindo ru’ã kanjika’i
  []
 
 
-Underfull \hbox (badness 7759) in paragraph at lines 3880--3883
+Underfull \hbox (badness 7759) in paragraph at lines 3891--3894
 []\TU/LinuxLibertineO(0)/m/n/12 Peteĩ oĩ avei, iporayvu aguã ombo’e
  []
 
 
-Underfull \hbox (badness 7504) in paragraph at lines 3880--3883
+Underfull \hbox (badness 7504) in paragraph at lines 3891--3894
 \TU/LinuxLibertineO(0)/m/n/12 raka’e. Xee ha’e rami ae rire ma,
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 3887--3895
+Underfull \hbox (badness 4531) in paragraph at lines 3898--3906
 \TU/LinuxLibertineO(0)/m/n/12 py, ome’e, ome’[1EBD?], ome’[1EBD?]
  []
 
 
-Underfull \hbox (badness 1062) in paragraph at lines 3887--3895
+Underfull \hbox (badness 1062) in paragraph at lines 3898--3906
 \TU/LinuxLibertineO(0)/m/n/12 oiny. Imba’e ome’[1EBD?] aguã ma je
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3896--3900
+Underfull \hbox (badness 10000) in paragraph at lines 3907--3911
 []\TU/LinuxLibertineO(0)/m/n/12 Ha’e rami ma xee xerereko karam-
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 3896--3900
+Underfull \hbox (badness 2088) in paragraph at lines 3907--3911
 \TU/LinuxLibertineO(0)/m/n/12 boae. Nhande! Ha’uxeve’i teĩ avei…
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3896--3900
+Underfull \hbox (badness 10000) in paragraph at lines 3907--3911
 \TU/LinuxLibertineO(0)/m/n/12 Taaa!!!! “Eme’[1EBD?], eme’[1EBD?],
  []
 
 
-Overfull \hbox (116.40903pt too wide) in paragraph at lines 3874--3929
+Overfull \hbox (116.40903pt too wide) in paragraph at lines 3885--3940
 []  
  []
 
@@ -1903,7 +1915,11 @@ Overfull \vbox (9.656pt too high) has occurred while \output is active []
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
-[194] [195] [196] [197] [198]
+[194] [195]
+Overfull \vbox (11.02513pt too high) has occurred while \output is active []
+
+
+[196] [197] [198]
 Overfull \vbox (5.07588pt too high) has occurred while \output is active []
 
 
@@ -1930,14 +1946,10 @@ Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
 [209]
-Overfull \vbox (7.60797pt too high) has occurred while \output is active []
+Overfull \vbox (7.19997pt too high) has occurred while \output is active []
 
 
-[210]
-Overfull \vbox (12.60797pt too high) has occurred while \output is active []
-
-
-[211]
+[210] [211]
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
@@ -1952,7 +1964,7 @@ Overfull \vbox (19.12389pt too high) has occurred while \output is active []
 [221
 
 ] [222]
-Underfull \hbox (badness 1259) in paragraph at lines 6739--6752
+Underfull \hbox (badness 1259) in paragraph at lines 6750--6763
 \TU/LinuxLibertineO(0)/m/n/12 guarani ao princípio de identidade, e que vemos d
 esembocar
  []
@@ -2006,30 +2018,32 @@ Overfull \vbox (19.656pt too high) has occurred while \output is active []
 
 
 [262]
-Underfull \hbox (badness 10000) in paragraph at lines 7816--7816
+Underfull \hbox (badness 10000) in paragraph at lines 7827--7827
 []\TU/LinuxLibertineO(0)/m/n/10 7. []Silent genocide, Māori Television (2013, p
 arte
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7816--7816
-\TU/LinuxLibertineO(0)/m/n/10 I e parte II, 12’10” e 13’58”). Disponível em
+Underfull \hbox (badness 10000) in paragraph at lines 7827--7827
+\TU/LinuxLibertineO(0)/m/sc/10 i \TU/LinuxLibertineO(0)/m/n/10 e parte \TU/Linu
+xLibertineO(0)/m/sc/10 ii\TU/LinuxLibertineO(0)/m/n/10 , 12’10” e 13’58”). Disp
+onível em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7816--7816
+Underfull \hbox (badness 10000) in paragraph at lines 7827--7827
 \TU/LinuxLibertineO(0)/m/n/10 lesshttp://www.maoritelevision.com/news/national/
 native-affairs-brazil-silent-
  []
 
 
-Overfull \hbox (16.26335pt too wide) in paragraph at lines 7816--7816
+Overfull \hbox (16.26335pt too wide) in paragraph at lines 7827--7827
 \TU/LinuxLibertineO(0)/m/n/10 genocide-part-1greater e lesshttp://www.maoritele
 vision.com/news/national/native-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7829--7829
+Underfull \hbox (badness 10000) in paragraph at lines 7840--7840
 []\TU/LinuxLibertineO(0)/m/n/10 9. []À sombra de um delírio verde (2011, 29’). 
 Disponível em
  []
@@ -2043,7 +2057,7 @@ Overfull \vbox (19.608pt too high) has occurred while \output is active []
 
 
 [265] [266] [267] [268]
-Overfull \hbox (4.456pt too wide) in paragraph at lines 8023--8029
+Overfull \hbox (4.456pt too wide) in paragraph at lines 8034--8040
 []\TU/LinuxLibertineO(0)/m/n/12 Os membros do coletivo que compõem a Ascuri aut
 odenominam-
  []
@@ -2087,7 +2101,7 @@ Overfull \vbox (2.65598pt too high) has occurred while \output is active []
 
 
 [285]
-Overfull \vbox (12.156pt too high) has occurred while \output is active []
+Overfull \vbox (12.108pt too high) has occurred while \output is active []
 
 
 [286] [287]
@@ -2101,11 +2115,14 @@ File: ./img/GUARANIS-img6.jpg Graphic file (type bmp)
 <./img/GUARANIS-img6.jpg>
 
 
-LaTeX Warning: Float too large for page by 21.1257pt on input line 8792.
+LaTeX Warning: Float too large for page by 21.1257pt on input line 8803.
 
 [293] [294
 
 ]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+
 Overfull \vbox (19.91188pt too high) has occurred while \output is active []
 
 
@@ -2122,7 +2139,7 @@ Overfull \vbox (9.69997pt too high) has occurred while \output is active []
 
 
 [310] [311] [312]
-Underfull \hbox (badness 1629) in paragraph at lines 9444--9464
+Underfull \hbox (badness 1629) in paragraph at lines 9455--9475
 []\TU/LinuxLibertineO(0)/m/n/12 A abordagem comparativa dessas modalidades de a
 ssenta-
  []
@@ -2137,7 +2154,7 @@ Overfull \vbox (16.69887pt too high) has occurred while \output is active []
 
 
 [317] [318] [319] [320] [321] [322] [323]
-Underfull \hbox (badness 10000) in paragraph at lines 9786--9786
+Underfull \hbox (badness 10000) in paragraph at lines 9797--9797
 []\TU/LinuxLibertineO(0)/m/n/10 4. []Disponível em: lesshttp://portalsaude.saud
 e.gov.br/index.php/o-
  []
@@ -2149,20 +2166,15 @@ Overfull \vbox (11.18298pt too high) has occurred while \output is active []
 [324] [325] [326]
 File: ./img/GUARANIS-img8.jpg Graphic file (type bmp)
 <./img/GUARANIS-img8.jpg>
- [327] [328] [329]
-Underfull \hbox (badness 1237) in paragraph at lines 10014--10017
-\TU/LinuxLibertineO(0)/m/it/12 Pai-Tavyterã. Etnografía guaraní del Paraguay co
-ntemporáneo\TU/LinuxLibertineO(0)/m/n/12 .
- []
-
-[330] [331] [332]
-Underfull \hbox (badness 2126) in paragraph at lines 10124--10124
+ [327] [328] [329] [330] [331] [332]
+Underfull \hbox (badness 2213) in paragraph at lines 10135--10135
 []\TU/LinuxLibertineO(0)/m/n/10 4. []Segundo o site da Comissão Pró-índio de Sã
-o Paulo, as TI habita-
+o Paulo, as \TU/LinuxLibertineO(0)/m/sc/10 ti \TU/LinuxLibertineO(0)/m/n/10 hab
+ita-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 10124--10124
+Underfull \hbox (badness 2384) in paragraph at lines 10135--10135
 \TU/LinuxLibertineO(0)/m/n/10 há co-residência entre os Tupi Guarani, Guarani M
 bya e Terena. Fonte:
  []
@@ -2182,9 +2194,10 @@ Overfull \vbox (9.3309pt too high) has occurred while \output is active []
 
 
 [339]
-Underfull \hbox (badness 2197) in paragraph at lines 10349--10361
-[]\TU/LinuxLibertineO(0)/m/n/12 Em Piaçaguera, TI homologada no ano de 2011 (FU
-NAI:
+Underfull \hbox (badness 3354) in paragraph at lines 10360--10372
+[]\TU/LinuxLibertineO(0)/m/n/12 Em Piaçaguera, \TU/LinuxLibertineO(0)/m/sc/12 t
+i \TU/LinuxLibertineO(0)/m/n/12 homologada no ano de 2011 (\TU/LinuxLibertineO(
+0)/m/sc/12 funai\TU/LinuxLibertineO(0)/m/n/12 :
  []
 
 
@@ -2297,12 +2310,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \ifeof on line 28 was incomplete) 
 Here is how much of TeX's memory you used:
- 25733 strings out of 493007
- 478727 string characters out of 6140075
- 710741 words of memory out of 5000000
- 29231 multiletter control sequences out of 15000+600000
- 543992 words of font info for 107 fonts, out of 8000000 for 9000
+ 25745 strings out of 493007
+ 479483 string characters out of 6140075
+ 711741 words of memory out of 5000000
+ 29239 multiletter control sequences out of 15000+600000
+ 544138 words of font info for 111 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 55i,15n,87p,10416b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,15n,87p,10416b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LIVRO.pdf (390 pages).
