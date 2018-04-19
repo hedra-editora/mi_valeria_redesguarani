@@ -1,32 +1,32 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Apresentação}{7}
-\contentsline {part}{Movimentos pela terra, andanças entre mundos}{21}
-\contentsline {chapter}{Aguyjevete pra quem luta!}{25}
-\contentsline {chapter}{Carta veiculada pela Comissão Yvyrupa por ocasião da tinta vermelha no Monumento às Bandeiras}{31}
-\contentsline {chapter}{A caminho do Sol}{35}
-\contentsline {section}{Referências}{45}
-\contentsline {section}{Nota bibliográfica}{45}
-\contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos tekoha}{47}
-\contentsline {section}{Referências}{63}
-\contentsline {section}{Nota}{66}
-\contentsline {chapter}{Ore ava reko: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{67}
-\contentsline {section}{A invasão das terras Guarani e Kaiowa}{67}
-\contentsline {section}{A força das Jeroky Guasu e Aty Guasu}{70}
-\contentsline {part}{Caminhos e conhecimentos}{75}
-\contentsline {chapter}{Sonhos e conhecimentos na vida guarani}{79}
-\contentsline {section}{Os sabedores na aldeia}{81}
-\contentsline {chapter}{Os xondaro e a circulação de saberes no mundo de hoje}{85}
-\contentsline {section}{O despertar dos xondaro}{87}
-\contentsline {section}{A escola e os saberes}{91}
-\contentsline {chapter}{Processos de aprendizado pelos olhos das crianças guarani mbya}{95}
-\contentsline {section}{As kyringue guarani mbya}{96}
-\contentsline {section}{Na opy}{98}
-\contentsline {section}{Aprendizados como relações}{104}
-\contentsline {section}{A escola e os modos próprios de aprendizado guarani}{106}
-\contentsline {section}{Referências}{110}
-\contentsline {chapter}{Tornar-se adulto sem deixar de ser gente: fazer (crescer) parentes}{113}
-\contentsline {section}{Referências}{139}
+\contentsline {chapter}{Apresentação}{9}
+\contentsline {part}{Movimentos pela terra, andanças entre mundos}{23}
+\contentsline {chapter}{Aguyjevete pra quem luta!}{27}
+\contentsline {chapter}{Carta veiculada pela Comissão Yvyrupa por ocasião da tinta vermelha no Monumento às Bandeiras}{33}
+\contentsline {chapter}{A caminho do Sol}{37}
+\contentsline {section}{Referências}{47}
+\contentsline {section}{Nota bibliográfica}{47}
+\contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos tekoha}{49}
+\contentsline {section}{Referências}{65}
+\contentsline {section}{Nota}{68}
+\contentsline {chapter}{Ore ava reko: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{69}
+\contentsline {section}{A invasão das terras Guarani e Kaiowa}{69}
+\contentsline {section}{A força das Jeroky Guasu e Aty Guasu}{72}
+\contentsline {part}{Caminhos e conhecimentos}{77}
+\contentsline {chapter}{Sonhos e conhecimentos na vida guarani}{81}
+\contentsline {section}{Os sabedores na aldeia}{83}
+\contentsline {chapter}{Os xondaro e a circulação de saberes no mundo de hoje}{87}
+\contentsline {section}{O despertar dos xondaro}{89}
+\contentsline {section}{A escola e os saberes}{93}
+\contentsline {chapter}{Processos de aprendizado pelos olhos das crianças guarani mbya}{97}
+\contentsline {section}{As kyringue guarani mbya}{98}
+\contentsline {section}{Na opy}{100}
+\contentsline {section}{Aprendizados como relações}{106}
+\contentsline {section}{A escola e os modos próprios de aprendizado guarani}{108}
+\contentsline {section}{Referências}{112}
+\contentsline {chapter}{Tornar-se adulto sem deixar de ser gente: fazer (crescer) parentes}{115}
+\contentsline {section}{Referências}{138}
 \contentsline {part}{Conexões, alteridades, alterações}{141}
 \contentsline {chapter}{O que nos levanta sobre a terra: alegria e saudade fazendo parentesco}{145}
 \contentsline {section}{Palavras em movimento}{148}
@@ -46,7 +46,7 @@
 \contentsline {section}{De provedores e predadores}{200}
 \contentsline {section}{O não se acostumar}{205}
 \contentsline {section}{Referências}{215}
-\contentsline {section}{Comentário}{217}
+\contentsline {section}{Comentário}{218}
 \contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{219}
 \contentsline {section}{Referências}{234}
 \contentsline {part}{Tecnologias, circulação e transformação}{237}
@@ -65,7 +65,7 @@
 \contentsline {section}{Sem fronteiras}{286}
 \contentsline {section}{Referências}{287}
 \contentsline {part}{Nas aldeias e entre aldeias}{289}
-\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em MS}{293}
+\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{293}
 \contentsline {section}{Antecedentes}{296}
 \contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{310}
 \contentsline {section}{Referências}{312}
@@ -79,11 +79,11 @@
 \contentsline {section}{Comentário final}{330}
 \contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{331}
 \contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{334}
-\contentsline {section}{Iniciativas de valorização cultural na TI Piaçaguera}{337}
+\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{337}
 \contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{341}
 \contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{345}
 \contentsline {section}{Referências}{346}
-\contentsline {section}{Comentário final}{347}
+\contentsline {section}{Comentário final}{348}
 \contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{349}
 \contentsline {section}{Introdução}{349}
 \contentsline {section}{Partidas e chegadas}{351}
