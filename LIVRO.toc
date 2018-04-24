@@ -1,4 +1,4 @@
-\babel@toc {brazilian}{}
+\select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{9}
 \contentsline {part}{Movimentos pela terra, andanças entre mundos}{23}

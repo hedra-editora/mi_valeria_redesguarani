@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.4.20)  24 APR 2018 16:13
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  24 APR 2018 17:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **LIVRO.tex
 (./LIVRO.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
@@ -335,8 +335,8 @@ Package verse [2008/07/23] emulated by memoir.
 (/usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
 ))
-(/home/felipe/texmf/tex/commands.sty) (/home/felipe/texmf/tex/hedra.sty)
-(/home/felipe/texmf/tex/hedraoptions.sty
+(/home/editorial/texmf/tex/commands.sty) (/home/editorial/texmf/tex/hedra.sty)
+(/home/editorial/texmf/tex/hedraoptions.sty
 
 Class memoir Warning: \marginparsep is zero or negative on input line 165.
 
@@ -360,17 +360,17 @@ Sidefoothsep and sidefootwidth: 7pt and 102pt
 Sidefootvsep and sidefootheight: 14.5pt and 546.64995pt
 ******************************************************
 
-) (/home/felipe/texmf/tex/hedrastyles.sty
+) (/home/editorial/texmf/tex/hedrastyles.sty
 (/usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 LaTeX Info: Redefining \MakeTextUppercase on input line 47.
 LaTeX Info: Redefining \MakeTextLowercase on input line 50.
 )
 (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count137
 ))
-(/home/felipe/texmf/tex/tipografia.sty
+(/home/editorial/texmf/tex/tipografia.sty
 (/usr/share/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
 
@@ -440,7 +440,7 @@ LaTeX Font Info:    Try loading font information for U+OrnementsADF on input li
 ne 4.
 
 (/usr/share/texmf-dist/tex/latex/adforn/uornementsadf.fd))
-(/home/felipe/texmf/tex/hifensextras.sty)
+(/home/editorial/texmf/tex/hifensextras.sty)
 (/usr/share/texmf-dist/tex/latex/ncctools/manyfoot.sty
 Package: manyfoot 2005/09/11 v1.10 Many Footnote Levels Package (NCC)
 
@@ -499,21 +499,24 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/02/14 3.18 The Babel package
+Package: babel 2017/11/03 3.15 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/02/14 3.18 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/02/14 3.18 Babel common definitions
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
 \babel@savecnt=\count148
 \U@D=\dimen171
 
-(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def))
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@dirlevel=\count149
 )
 \bbl@monogreek=\count150
@@ -550,22 +553,24 @@ Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 Package babel Info: Making " an active character on input line 125.
 ))
 (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2018/02/04 v3.4b French support from the babel system
-\l@acadian = a dialect from \language\l@french 
+Language: french 2017/10/19 v3.3d French support from the babel system
 \FB@nonchar=\count156
+\FBcolonsp=\toks25
+\FBthinsp=\toks26
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of XeTeX!
-(french.ldf)             reported on input line 323.
+(french.ldf)             reported on input line 234.
 \FB@punctthick=\XeTeXcharclass1
 \FB@punctthin=\XeTeXcharclass2
 \FB@punctnul=\XeTeXcharclass3
 \FB@guilo=\XeTeXcharclass4
 \FB@guilf=\XeTeXcharclass5
 \FB@guilnul=\XeTeXcharclass6
+\FBguillsp=\toks27
 \FBguill@level=\count157
-\FB@everypar=\toks25
+\FB@everypar=\toks28
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 753.
+LaTeX Info: Redefining \degres on input line 681.
 \mc@charclass=\count158
 \mc@charfam=\count159
 \mc@charslot=\count160
@@ -589,30 +594,30 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 ))
 (/usr/share/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
-\MT@toks=\toks26
+Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
+\MT@toks=\toks29
 \MT@count=\count164
-LaTeX Info: Redefining \textls on input line 793.
+LaTeX Info: Redefining \textls on input line 789.
 \MT@outer@kern=\dimen174
-LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
 \MT@listname@count=\count165
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
-File: microtype-xetex.def 2018/01/14 v2.7a Definitions specific to xetex (RS)
-LaTeX Info: Redefining \lsstyle on input line 256.
+File: microtype-xetex.def 2017/07/07 v2.7 Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 255.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018/02/21 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018/02/21 L3 programming layer (code)
+Package: expl3 2017/11/14 L3 programming layer (code)
 \c_max_int=\count166
 \l_tmpa_int=\count167
 \l_tmpb_int=\count168
@@ -708,7 +713,7 @@ Package: expl3 2018/02/21 L3 programming layer (code)
 \l__regex_min_submatch_int=\count311
 \l__regex_submatch_int=\count312
 \l__regex_zeroth_submatch_int=\count313
-\g__regex_trace_regex_int=\count314
+\g__debug_trace_regex_int=\count314
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -755,7 +760,7 @@ File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count315
 \l__driver_tmp_box=\box50
 ))
-Package: xparse 2018/02/21 L3 Experimental document command parser
+Package: xparse 2017/11/14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count316
 \g__xparse_grabber_int=\count317
 \l__xparse_m_args_int=\count318
@@ -1005,8 +1010,8 @@ LaTeX Font Warning: Font shape `TU/cmr/bx/n' undefined
 
 )
 \tipaTiiicode=\count329
-\tipasavetokens=\toks27
-\tipachecktokens=\toks28
+\tipasavetokens=\toks30
+\tipachecktokens=\toks31
  (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -1093,7 +1098,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
 
-(/home/felipe/texmf/tex/toc.sty
+(/home/editorial/texmf/tex/toc.sty
 (/usr/share/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2011/12/15 v1.6 TOC entries
 \ttl@leftsep=\dimen272
@@ -1216,13 +1221,14 @@ Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
 \c@@sectionNumCenter=\count332
 )
-(/home/felipe/texmf/tex/penalidades.sty) (/home/felipe/texmf/tex/graficos.sty
+(/home/editorial/texmf/tex/penalidades.sty)
+(/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
 \c@WF@wrappedlines=\count333
 \WF@box=\box51
-\WF@everypar=\toks29
+\WF@everypar=\toks32
 Package: wrapfig 2003/01/31  v 3.6
 )
 
@@ -1260,7 +1266,7 @@ Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
 \TP@absmargin=\dimen285
 Grid set 16 x 16 = 28.45274pt x 40.90083pt
 \TPboxrulesize=\dimen286
-\TP@tbargs=\toks30
+\TP@tbargs=\toks33
 \TP@prevdepth=\dimen287
 ) (/usr/share/texmf-dist/tex/latex/sttools/floatpag.sty
 Package: floatpag 2012/05/29 v1.1 Different pagestyles on float pages
@@ -1296,7 +1302,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 \imageheight=\skip263
 \imagewidth=\skip264
 
-(/home/felipe/texmf/tex/hedralogo.sty
+(/home/editorial/texmf/tex/hedralogo.sty
 Package: hedralogo 27/12/08 v2.0 Editora Hedra (Mantenedor: JS)
 
 (/usr/share/texmf-dist/tex/latex/graphics/color.sty
@@ -1306,19 +1312,19 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: xetex.def on input line 147.
-)) (./fichatecnica.sty) (/home/felipe/texmf/tex/aparatos.sty (/home/felipe/texm
-f/tex/listingx.sty)
-(/home/felipe/texmf/tex/frontlayout.sty))
-(/home/felipe/texmf/tex/fronthedra.tex) (./tabelas.sty
+)) (./fichatecnica.sty) (/home/editorial/texmf/tex/aparatos.sty
+(/home/editorial/texmf/tex/listingx.sty)
+(/home/editorial/texmf/tex/frontlayout.sty))
+(/home/editorial/texmf/tex/fronthedra.tex) (./tabelas.sty
 (/usr/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip265
 \enit@outerparindent=\dimen288
-\enit@toks=\toks31
+\enit@toks=\toks34
 \enit@inbox=\box53
 \enitdp@description=\count335
 ))
-(/home/felipe/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
+(/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
 (/usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count336
@@ -1360,7 +1366,7 @@ Package: paracol 2015/10/10 v1.32
 \pcol@prespan=\box56
 \pcol@rightpage=\box57
 \pcol@tempbox=\box58
-\pcol@everyvbox=\toks32
+\pcol@everyvbox=\toks35
 ) (./LIVRO.aux
 (./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
@@ -1519,7 +1525,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-(/home/felipe/texmf/tex/frontconselho.tex)
+(/home/editorial/texmf/tex/frontconselho.tex)
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -2361,7 +2367,7 @@ Overfull \vbox (8.73099pt too high) has occurred while \output is active []
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/felipe/texmf/tex/PUBLICIDADE.tex [383
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [383
 
 
 
@@ -2394,12 +2400,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  )
 (\end occurred when \ifeof on line 38 was incomplete) 
 Here is how much of TeX's memory you used:
- 26612 strings out of 493007
- 494821 string characters out of 6140075
- 727770 words of memory out of 5000000
- 30100 multiletter control sequences out of 15000+600000
+ 26399 strings out of 493010
+ 490277 string characters out of 6140134
+ 723028 words of memory out of 5000000
+ 29885 multiletter control sequences out of 15000+600000
  544154 words of font info for 113 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10416b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (388 pages, 7311784 bytes).
+Output written on LIVRO.xdv (388 pages, 7311936 bytes).
