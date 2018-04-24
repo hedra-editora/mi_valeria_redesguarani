@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX_felipe/mi_valeria_redesguarani
+PWD /home/editorial/LATEX/mi_valeria_redesguarani
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT LIVRO.tex
@@ -238,6 +238,10 @@ INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 INPUT LIVRO.aux
 INPUT LIVRO.aux
+INPUT INPUTS.aux
+INPUT INPUTS.aux
+INPUT PUBLICIDADE.aux
+INPUT PUBLICIDADE.aux
 OUTPUT LIVRO.aux
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
@@ -276,6 +280,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT PRETAS.tex
 INPUT PRETAS.tex
 INPUT PRETAS.tex
+INPUT LIVRO.toc
+INPUT LIVRO.toc
 OUTPUT INPUTS.aux
 INPUT INPUTS.tex
 INPUT INPUTS.tex

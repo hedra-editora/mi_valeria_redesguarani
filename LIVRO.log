@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.30)  20 APR 2018 19:04
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  24 APR 2018 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1343,7 +1343,8 @@ Package: paracol 2015/10/10 v1.32
 \pcol@rightpage=\box57
 \pcol@tempbox=\box58
 \pcol@everyvbox=\toks35
-) (./LIVRO.aux)
+) (./LIVRO.aux
+(./INPUTS.aux) (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
@@ -1532,9 +1533,30 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 )
 [4
 
-]
-No file LIVRO.toc.
-[5]
+] (./LIVRO.toc
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+
+Overfull \hbox (11.80798pt too wide) in paragraph at lines 4--4
+[]|\TU/LinuxLibertineO(0)/m/sc/14.4 movimentos pela terra, andanças entre mundo
+s| 
+ []
+
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+
+Underfull \hbox (badness 1259) in paragraph at lines 6--6
+[]|\TU/LinuxLibertineO(0)/m/n/10.95 Carta veiculada pela Comissão Yvyrupa por o
+casião da tinta 
+ []
+
+) [5]
 \openout2 = `INPUTS.aux'.
 
  (./INPUTS.tex (./EPIGRAFE.tex [6
@@ -1544,8 +1566,6 @@ No file LIVRO.toc.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1553,8 +1573,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) (./GUARANIS.tex [7] [8
 
 ]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [9]
@@ -1604,10 +1622,7 @@ Underfull \hbox (badness 1997) in paragraph at lines 1009--1013
 lideranças
  []
 
-[45]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [46] [47] [48
+[45] [46] [47] [48
 
 ] [49]
 Overfull \vbox (9.54214pt too high) has occurred while \output is active []
@@ -1669,11 +1684,7 @@ to read past where you wanted me to stop.
 I'll try to recover; but if the error is serious,
 you'd better type `E' or `X' now and fix your file.
 
-) [65]
-
-Package lastpage Warning: Rerun to get the references right on input line 42.
-
-
+) [65] 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
@@ -1695,8 +1706,6 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [67] [68] [69])
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 42.
  [70
@@ -1720,23 +1729,19 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
+(./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 1697 (\begingroup)
 ### bottom level
 (\end occurred when \ifeof on line 38 was incomplete) 
 Here is how much of TeX's memory you used:
- 25859 strings out of 492998
- 479009 string characters out of 6139960
- 1238565 words of memory out of 5000000
- 29368 multiletter control sequences out of 15000+600000
- 544016 words of font info for 110 fonts, out of 8000000 for 9000
+ 25870 strings out of 492998
+ 479294 string characters out of 6139960
+ 1240751 words of memory out of 5000000
+ 29372 multiletter control sequences out of 15000+600000
+ 544024 words of font info for 111 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 54i,12n,88p,10373b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,12n,88p,10373b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (70 pages, 1178300 bytes).
+Output written on LIVRO.xdv (70 pages, 1186200 bytes).
