@@ -31,7 +31,7 @@
 \contentsline {section}{Palavras em movimento}{148}
 \contentsline {section}{Ausências povoadas}{155}
 \contentsline {section}{Referências}{162}
-\contentsline {chapter}{Parentesco e emoções: algumas conexões no alegrar"-se}{165}
+\contentsline {chapter}{Parentesco e emoções: algumas conexões no ``alegrar"-se''}{165}
 \contentsline {section}{Lidando com emoções}{165}
 \contentsline {section}{Alegrar (-se com) parente}{168}
 \contentsline {section}{Alimentar}{170}
@@ -39,63 +39,72 @@
 \contentsline {section}{Cantar e dançar junto}{175}
 \contentsline {section}{Emoções e relações}{178}
 \contentsline {section}{Referências}{179}
-\contentsline {chapter}{Um tekoa, uma cidade e a sidade}{181}
-\contentsline {section}{Referências}{194}
-\contentsline {chapter}{Mundéu do mundo: Predação e troca nas relações com os brancos}{197}
-\contentsline {section}{De provedores e predadores}{200}
-\contentsline {section}{O não se acostumar}{205}
-\contentsline {section}{Referências}{215}
-\contentsline {section}{Comentário}{218}
-\contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{219}
-\contentsline {section}{Referências}{234}
-\contentsline {part}{Tecnologias, circulação e transformação}{237}
-\contentsline {chapter}{Filmar histórias e transformar olhares}{241}
-\contentsline {chapter}{Trilhando histórias em imagens}{247}
-\contentsline {chapter}{Formação e autonomia na produção de filmes}{251}
-\contentsline {chapter}{Linguagem e tecnologia}{255}
-\contentsline {chapter}{Entre enxadas e tratores: notas sobre um (des)encontro}{259}
-\contentsline {section}{Wai Wai, chefe wajãpi, em A Arca dos Zo’é}{259}
-\contentsline {section}{Fazer-se para fazer}{266}
-\contentsline {section}{Guaranizar o computador}{269}
-\contentsline {section}{Referências}{272}
-\contentsline {chapter}{Comunicação, convívio e permuta em Yvy vai}{273}
-\contentsline {section}{Princípios e processos de comunicação entre as pessoas e acesso às divindades criadoras}{276}
-\contentsline {section}{Todas as coisas têm seu dono guardião}{282}
-\contentsline {section}{Sem fronteiras}{286}
-\contentsline {section}{Referências}{287}
-\contentsline {part}{Nas aldeias e entre aldeias}{289}
-\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{293}
-\contentsline {section}{Antecedentes}{296}
-\contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{310}
-\contentsline {section}{Referências}{312}
-\contentsline {section}{Comentário final}{313}
-\contentsline {chapter}{Articulações e transformações entre as parcialidades Guarani no sul do Brasil}{315}
-\contentsline {section}{Parcialidades Guarani}{315}
-\contentsline {section}{Chiripa, Paĩ, Tambeope}{319}
-\contentsline {section}{A configuração Mbya}{321}
-\contentsline {section}{Os Nhandéva contemporâneos}{322}
-\contentsline {section}{Referências}{326}
-\contentsline {section}{Comentário final}{330}
-\contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{331}
-\contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{334}
-\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{337}
-\contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{341}
-\contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{345}
-\contentsline {section}{Referências}{346}
-\contentsline {section}{Comentário final}{348}
-\contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{349}
-\contentsline {section}{Introdução}{349}
-\contentsline {section}{Partidas e chegadas}{351}
-\contentsline {section}{Potencialmente afins}{360}
-\contentsline {section}{Novos encontros, novos contextos}{364}
-\contentsline {section}{Nota Final}{366}
-\contentsline {section}{Referências}{367}
-\contentsline {section}{Comentário final}{370}
-\contentsline {chapter}{Os Mbya-Guarani de Misiones frente à Ley del Aborigen nos anos 1980}{371}
-\contentsline {section}{O contexto}{371}
-\contentsline {section}{O debate}{372}
-\contentsline {section}{A disputa}{375}
-\contentsline {section}{A arena política}{377}
-\contentsline {section}{Referências}{379}
-\contentsline {chapter}{Carta pública em defesa aos direitos do Povo Guarani}{381}
+\contentsline {chapter}{Um \emph {tekoa}, uma cidade e a \emph {sidade}}{181}
+\contentsline {chapter}{Parentesco e emoções: algumas conexões no ``alegrar"-se''}{189}
+\contentsline {section}{Lidando com emoções}{189}
+\contentsline {section}{Alegrar (-se com) parente}{192}
+\contentsline {section}{Alimentar}{193}
+\contentsline {section}{Falar e ouvir}{195}
+\contentsline {section}{Cantar e dançar junto}{198}
+\contentsline {section}{Emoções e relações}{202}
+\contentsline {section}{Referências}{202}
+\contentsline {chapter}{Um \emph {tekoa}, uma cidade e a \emph {sidade}}{205}
+\contentsline {section}{Referências}{218}
+\contentsline {chapter}{Mundéu do mundo: Predação e troca nas relações com os brancos}{221}
+\contentsline {section}{De provedores e predadores}{224}
+\contentsline {section}{O não se acostumar}{228}
+\contentsline {section}{Referências}{238}
+\contentsline {section}{Comentário}{241}
+\contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{243}
+\contentsline {section}{Referências}{258}
+\contentsline {part}{Tecnologias, circulação e transformação}{261}
+\contentsline {chapter}{Filmar histórias e transformar olhares}{265}
+\contentsline {chapter}{Trilhando histórias em imagens}{271}
+\contentsline {chapter}{Formação e autonomia na produção de filmes}{275}
+\contentsline {chapter}{Linguagem e tecnologia}{279}
+\contentsline {chapter}{Entre enxadas e tratores: notas sobre um (des)encontro}{283}
+\contentsline {section}{Wai Wai, chefe wajãpi, em A Arca dos Zo’é}{283}
+\contentsline {section}{Fazer-se para fazer}{290}
+\contentsline {section}{Guaranizar o computador}{292}
+\contentsline {section}{Referências}{295}
+\contentsline {chapter}{Comunicação, convívio e permuta em Yvy vai}{297}
+\contentsline {section}{Princípios e processos de comunicação entre as pessoas e acesso às divindades criadoras}{300}
+\contentsline {section}{Todas as coisas têm seu dono guardião}{306}
+\contentsline {section}{Sem fronteiras}{310}
+\contentsline {section}{Referências}{311}
+\contentsline {part}{Nas aldeias e entre aldeias}{313}
+\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{317}
+\contentsline {section}{Antecedentes}{320}
+\contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{333}
+\contentsline {section}{Referências}{335}
+\contentsline {section}{Comentário final}{336}
+\contentsline {chapter}{Articulações e transformações entre as parcialidades Guarani no sul do Brasil}{339}
+\contentsline {section}{Parcialidades Guarani}{339}
+\contentsline {section}{Chiripa, Paĩ, Tambeope}{343}
+\contentsline {section}{A configuração Mbya}{345}
+\contentsline {section}{Os Nhandéva contemporâneos}{346}
+\contentsline {section}{Referências}{349}
+\contentsline {section}{Comentário final}{354}
+\contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{355}
+\contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{358}
+\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{361}
+\contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{364}
+\contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{368}
+\contentsline {section}{Referências}{369}
+\contentsline {section}{Comentário final}{371}
+\contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{373}
+\contentsline {section}{Introdução}{373}
+\contentsline {section}{Partidas e chegadas}{375}
+\contentsline {section}{Potencialmente afins}{384}
+\contentsline {section}{Novos encontros, novos contextos}{387}
+\contentsline {section}{Nota Final}{390}
+\contentsline {section}{Referências}{391}
+\contentsline {section}{Comentário final}{394}
+\contentsline {chapter}{Os Mbya-Guarani de Misiones frente à Ley del Aborigen nos anos 1980}{395}
+\contentsline {section}{O contexto}{395}
+\contentsline {section}{O debate}{396}
+\contentsline {section}{A disputa}{399}
+\contentsline {section}{A arena política}{401}
+\contentsline {section}{Referências}{403}
+\contentsline {chapter}{Carta pública em defesa aos direitos do Povo Guarani}{405}
 \contentsfinish 

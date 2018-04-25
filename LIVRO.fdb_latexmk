@@ -3,7 +3,7 @@
   "LIVRO.xdv" 1524684594 7316828 42d125b68c0436e37b2628982d289e19 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1524684589 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1524684595
+["xelatex"] 1524692467 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1524692467
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961913 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -156,7 +156,7 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
   "EPIGRAFE.tex" 1524603685 200 1e088812f0139f345f5b689477b0bf59 ""
-  "GUARANIS.tex" 1524684572 703239 ecb81651eeaf4dcc64887b91bfef3ae0 ""
+  "GUARANIS.tex" 1524692433 705728 c903f7bc817cb9bd9ea43b24787d50f3 ""
   "INPUTS.aux" 1524684594 13656 be5bd6aaf65d4c0169b7509e3c2e89c1 ""
   "INPUTS.tex" 1524596577 33 0bfc4233f89e5b7f77ad1ae13bc985ef ""
   "LIVRO.aux" 1524684594 501 1cf22692e885d1695f0cffe25661da9c ""
@@ -180,9 +180,9 @@
   "img/GUARANIS-img8.jpg" 1485444872 146661 1344de8d69f56be64ae7522859e806b9 ""
   "tabelas.sty" 1485445251 750 231470c8807cdc90f2422476c27dfc8e ""
   (generated)
+  "INPUTS.aux"
+  "LIVRO.toc"
+  "PUBLICIDADE.aux"
+  "LIVRO.aux"
   "LIVRO.log"
   "LIVRO.xdv"
-  "LIVRO.aux"
-  "PUBLICIDADE.aux"
-  "LIVRO.toc"
-  "INPUTS.aux"
