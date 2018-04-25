@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  25 APR 2018 16:02
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  25 APR 2018 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2062,14 +2062,21 @@ Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 Overfull \vbox (9.60803pt too high) has occurred while \output is active []
 
 
-[212] [213] [214] [215] [216] [217] [218]
+[212] [213] [214] [215] [216]
+Overfull \hbox (7.80936pt too wide) in paragraph at lines 6815--6816
+[]\TU/LinuxLibertineO(0)/m/sc/12 vilaça\TU/LinuxLibertineO(0)/m/n/12 , Aparecid
+a. “Conversão, predação e perspectiva”. \TU/LinuxLibertineO(0)/m/it/12 Mana \TU
+/LinuxLibertineO(0)/m/n/12 14(1),
+ []
+
+[217] [218]
 Overfull \vbox (19.12389pt too high) has occurred while \output is active []
 
 
 [219
 
 ] [220]
-Underfull \hbox (badness 1259) in paragraph at lines 6916--6929
+Underfull \hbox (badness 1259) in paragraph at lines 6915--6928
 \TU/LinuxLibertineO(0)/m/n/12 guarani ao princípio de identidade, e que vemos d
 esembocar
  []
@@ -2078,11 +2085,7 @@ esembocar
 Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
-[222]
-Overfull \vbox (12.60797pt too high) has occurred while \output is active []
-
-
-[223]
+[222] [223]
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
@@ -2426,4 +2429,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10416b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (388 pages, 7317160 bytes).
+Output written on LIVRO.xdv (388 pages, 7318844 bytes).
