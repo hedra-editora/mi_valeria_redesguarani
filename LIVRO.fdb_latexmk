@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1524602879 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1524602880
-  "LIVRO.xdv" 1524602879 7311936 b6bcf9c216102cb453d429b946fad64b "xelatex"
+["xdvipdfmx"] 1524681955 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1524681957
+  "LIVRO.xdv" 1524681955 7317060 002f713fc087429fbe9d78cadab8918c "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1524602875 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1524602880
+["xelatex"] 1524681951 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1524681957
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961914 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -153,14 +153,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
   "EPIGRAFE.tex" 1524601613 200 1e088812f0139f345f5b689477b0bf59 ""
-  "GUARANIS.tex" 1524602860 699930 8f6f9fa44cacd31db9fd30cb890d29b6 ""
-  "INPUTS.aux" 1524602879 13625 06be7daa2dd0688a126ee7eb36dfd3f3 ""
+  "GUARANIS.tex" 1524681947 703209 669dad9bb145789b63be5bda4b5069d0 ""
+  "INPUTS.aux" 1524681955 13679 6bad528e4c9a82b199503f2c78f1e073 ""
   "INPUTS.tex" 1524599382 33 0bfc4233f89e5b7f77ad1ae13bc985ef ""
-  "LIVRO.aux" 1524602879 501 1cf22692e885d1695f0cffe25661da9c ""
+  "LIVRO.aux" 1524681955 501 1cf22692e885d1695f0cffe25661da9c ""
   "LIVRO.tex" 1524599382 1024 76febe1614e8e6ab2a451c3fae3f326c ""
-  "LIVRO.toc" 1524602879 6300 17c8c3af6c3235b961120fc0bf231f23 ""
+  "LIVRO.toc" 1524681955 6348 59d015ef4ceb72a9d849b535c87d93e7 ""
   "PRETAS.tex" 1524599382 1796 9b32f91e6557eb1d381d41857f0d8d4a ""
-  "PUBLICIDADE.aux" 1524602879 1691 bb2897907a1d9faae783376646d01c7f ""
+  "PUBLICIDADE.aux" 1524681955 1691 bb2897907a1d9faae783376646d01c7f ""
   "fichatecnica.sty" 1524599382 2332 88ce5845a5ecbce99990399e90e3d933 ""
   "gitrevisioninfo.sty" 1521746123 0 d41d8cd98f00b204e9800998ecf8427e ""
   "hedraextra.sty" 1521746123 6378 b422bab5bd7e08d88ba0af041d08b07c ""
@@ -177,9 +177,9 @@
   "img/GUARANIS-img8.jpg" 1521746123 146661 1344de8d69f56be64ae7522859e806b9 ""
   "tabelas.sty" 1521746123 750 231470c8807cdc90f2422476c27dfc8e ""
   (generated)
-  "PUBLICIDADE.aux"
-  "INPUTS.aux"
-  "LIVRO.log"
-  "LIVRO.aux"
   "LIVRO.xdv"
+  "LIVRO.aux"
+  "PUBLICIDADE.aux"
   "LIVRO.toc"
+  "LIVRO.log"
+  "INPUTS.aux"
