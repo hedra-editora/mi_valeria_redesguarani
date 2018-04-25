@@ -9,18 +9,18 @@
 \contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos \emph {tekoha}}{49}
 \contentsline {section}{Referências}{65}
 \contentsline {section}{Nota}{68}
-\contentsline {chapter}{Ore ava reko: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{69}
+\contentsline {chapter}{\emph {Ore ava reko}: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{69}
 \contentsline {section}{A invasão das terras Guarani e Kaiowa}{69}
-\contentsline {section}{A força das Jeroky Guasu e Aty Guasu}{72}
+\contentsline {section}{A força das \emph {Jeroky Guasu} e \emph {Aty Guasu}}{72}
 \contentsline {part}{Caminhos e conhecimentos}{77}
 \contentsline {chapter}{Sonhos e conhecimentos na vida guarani}{81}
 \contentsline {section}{Os sabedores na aldeia}{83}
 \contentsline {chapter}{Os xondaro e a circulação de saberes no mundo de hoje}{87}
-\contentsline {section}{O despertar dos xondaro}{89}
+\contentsline {section}{O despertar dos \emph {xondaro}}{89}
 \contentsline {section}{A escola e os saberes}{93}
 \contentsline {chapter}{Processos de aprendizado pelos olhos das crianças guarani mbya}{97}
-\contentsline {section}{As kyringue guarani mbya}{98}
-\contentsline {section}{Na opy}{100}
+\contentsline {section}{As \emph {kyringue} guarani mbya}{98}
+\contentsline {section}{Na \emph {opy}}{100}
 \contentsline {section}{Aprendizados como relações}{106}
 \contentsline {section}{A escola e os modos próprios de aprendizado guarani}{108}
 \contentsline {section}{Referências}{112}
