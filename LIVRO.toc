@@ -56,7 +56,7 @@
 \contentsline {section}{Referências}{238}
 \contentsline {section}{Comentário}{241}
 \contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{243}
-\contentsline {section}{Referências}{258}
+\contentsline {section}{Referências}{257}
 \contentsline {part}{Tecnologias, circulação e transformação}{261}
 \contentsline {chapter}{Filmar histórias e transformar olhares}{265}
 \contentsline {chapter}{Trilhando histórias em imagens}{271}
