@@ -58,7 +58,7 @@
 \contentsline {section}{Fazer-se para fazer}{266}
 \contentsline {section}{Guaranizar o computador}{269}
 \contentsline {section}{Referências}{272}
-\contentsline {chapter}{Comunicação, convívio e permuta em Yvy vai}{273}
+\contentsline {chapter}{Comunicação, convívio e permuta em \emph {Yvy vai}}{273}
 \contentsline {section}{Princípios e processos de comunicação entre as pessoas e acesso às divindades criadoras}{276}
 \contentsline {section}{Todas as coisas têm seu dono guardião}{282}
 \contentsline {section}{Sem fronteiras}{286}
