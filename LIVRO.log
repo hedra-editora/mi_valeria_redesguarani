@@ -1,11 +1,15 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  26 APR 2018 18:24
+<<<<<<< HEAD
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  26 APR 2018 18:14
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  26 APR 2018 15:42
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **LIVRO.tex
 (./LIVRO.tex
 LaTeX2e <2017-04-15>
-Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
 ment class
@@ -499,19 +503,19 @@ Package: footnote 1997/01/28 1.13 Save footnotes around boxes
 \epigraphminimallength=\skip190
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2017/06/29 3.12 The Babel package
+Package: babel 2017/11/03 3.15 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 (/usr/share/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2016/09/07 v1.9g Greek support for the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2017/06/29 3.12 Babel common definitions
+File: babel.def 2017/11/03 3.15 Babel common definitions
 
 (/usr/share/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2017/06/29 3.12 Babel switching mechanism
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
 \babel@savecnt=\count148
 \U@D=\dimen171
@@ -552,17 +556,14 @@ Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 Package babel Info: Making " an active character on input line 125.
 ))
-(/usr/share/texmf-dist/tex/generic/babel-french/frenchb.ldf
-Language: frenchb 2017/07/08 v3.3b French support from the babel system
-
 (/usr/share/texmf-dist/tex/generic/babel-french/french.ldf
-Language: french 2017/07/08 v3.3b French support from the babel system
+Language: french 2017/10/19 v3.3d French support from the babel system
 \FB@nonchar=\count156
 \FBcolonsp=\toks25
 \FBthinsp=\toks26
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of XeTeX!
-(french.ldf)             reported on input line 233.
+(french.ldf)             reported on input line 234.
 \FB@punctthick=\XeTeXcharclass1
 \FB@punctthin=\XeTeXcharclass2
 \FB@punctnul=\XeTeXcharclass3
@@ -573,31 +574,24 @@ Package french.ldf Info: No need for active punctuation characters
 \FBguill@level=\count157
 \FB@everypar=\toks28
 \FB@Mht=\dimen172
-LaTeX Info: Redefining \degres on input line 680.
+LaTeX Info: Redefining \degres on input line 681.
 \mc@charclass=\count158
 \mc@charfam=\count159
 \mc@charslot=\count160
 \std@mcc=\count161
 \dec@mcc=\count162
+\c@FBcaption@count=\count163
 \listindentFB=\skip191
 \descindentFB=\skip192
 \labelwidthFB=\skip193
 \leftmarginFB=\skip194
 \parindentFFN=\dimen173
 \FBfnindent=\skip256
-))
+)
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
-Language: russianb 2017/01/12 1.3i Russian support for the Babel system
-
-
-Package babel Warning: No Cyrillic font encoding has been loaded so far.
-(babel)                A font encoding should be declared before babel.
-(babel)                Default `EU1' encoding will be loaded  on input line 69.
-
-
-(/usr/share/texmf-dist/tex/latex/euenc/eu1enc.def
-File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
-))
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Default for \cyrdash is provided on input line 157.
+)
 (/usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 \l@brazilian = a dialect from \language\l@portuges 
@@ -606,11 +600,11 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 (/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2017/07/07 v2.7 Micro-typographical refinements (RS)
 \MT@toks=\toks29
-\MT@count=\count163
+\MT@count=\count164
 LaTeX Info: Redefining \textls on input line 789.
 \MT@outer@kern=\dimen174
 LaTeX Info: Redefining \textmicrotypecontext on input line 1334.
-\MT@listname@count=\count164
+\MT@listname@count=\count165
 
 (/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
 File: microtype-xetex.def 2017/07/07 v2.7 Definitions specific to xetex (RS)
@@ -622,23 +616,24 @@ Package microtype Info: Loading configuration file microtype.cfg.
 File: microtype.cfg 2017/07/07 v2.7 microtype main configuration file (RS)
 ))
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/07/19 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/07/19 L3 programming layer (code)
-\c_max_int=\count165
-\l_tmpa_int=\count166
-\l_tmpb_int=\count167
-\g_tmpa_int=\count168
-\g_tmpb_int=\count169
-\g__intarray_font_int=\count170
-\g__prg_map_int=\count171
-\c_log_iow=\count172
-\l_iow_line_count_int=\count173
-\l__iow_line_target_int=\count174
-\l__iow_one_indent_int=\count175
-\l__iow_indent_int=\count176
+Package: expl3 2017/11/14 L3 programming layer (code)
+\c_max_int=\count166
+\l_tmpa_int=\count167
+\l_tmpb_int=\count168
+\g_tmpa_int=\count169
+\g_tmpb_int=\count170
+\g__intarray_font_int=\count171
+\g__prg_map_int=\count172
+\c_log_iow=\count173
+\l_iow_line_count_int=\count174
+\l__iow_line_target_int=\count175
+\l__iow_one_indent_int=\count176
+\l__iow_indent_int=\count177
 \c_zero_dim=\dimen175
 \c_max_dim=\dimen176
 \l_tmpa_dim=\dimen177
@@ -657,72 +652,72 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count177
-\c__fp_leading_shift_int=\count178
-\c__fp_middle_shift_int=\count179
-\c__fp_trailing_shift_int=\count180
-\c__fp_big_leading_shift_int=\count181
-\c__fp_big_middle_shift_int=\count182
-\c__fp_big_trailing_shift_int=\count183
-\c__fp_Bigg_leading_shift_int=\count184
-\c__fp_Bigg_middle_shift_int=\count185
-\c__fp_Bigg_trailing_shift_int=\count186
-\l__sort_length_int=\count187
-\l__sort_min_int=\count188
-\l__sort_top_int=\count189
-\l__sort_max_int=\count190
-\l__sort_true_max_int=\count191
-\l__sort_block_int=\count192
-\l__sort_begin_int=\count193
-\l__sort_end_int=\count194
-\l__sort_A_int=\count266
-\l__sort_B_int=\count267
-\l__sort_C_int=\count268
-\l__tl_build_start_index_int=\count269
-\l__tl_build_index_int=\count270
-\l__tl_analysis_normal_int=\count271
-\l__tl_analysis_index_int=\count272
-\l__tl_analysis_nesting_int=\count273
-\l__tl_analysis_type_int=\count274
-\l__regex_internal_a_int=\count275
-\l__regex_internal_b_int=\count276
-\l__regex_internal_c_int=\count277
-\l__regex_balance_int=\count278
-\l__regex_group_level_int=\count279
-\l__regex_mode_int=\count280
-\c__regex_cs_in_class_mode_int=\count281
-\c__regex_cs_mode_int=\count282
-\l__regex_catcodes_int=\count283
-\l__regex_default_catcodes_int=\count284
-\c__regex_catcode_L_int=\count285
-\c__regex_catcode_O_int=\count286
-\c__regex_catcode_A_int=\count287
-\c__regex_all_catcodes_int=\count288
-\l__regex_show_lines_int=\count289
-\l__regex_min_state_int=\count290
-\l__regex_max_state_int=\count291
-\l__regex_left_state_int=\count292
-\l__regex_right_state_int=\count293
-\l__regex_capturing_group_int=\count294
-\l__regex_min_pos_int=\count295
-\l__regex_max_pos_int=\count296
-\l__regex_curr_pos_int=\count297
-\l__regex_start_pos_int=\count298
-\l__regex_success_pos_int=\count299
-\l__regex_curr_char_int=\count300
-\l__regex_curr_catcode_int=\count301
-\l__regex_last_char_int=\count302
-\l__regex_case_changed_char_int=\count303
-\l__regex_curr_state_int=\count304
-\l__regex_step_int=\count305
-\l__regex_min_active_int=\count306
-\l__regex_max_active_int=\count307
-\l__regex_replacement_csnames_int=\count308
-\l__regex_match_count_int=\count309
-\l__regex_min_submatch_int=\count310
-\l__regex_submatch_int=\count311
-\l__regex_zeroth_submatch_int=\count312
-\g__debug_trace_regex_int=\count313
+\l_keys_choice_int=\count178
+\c__fp_leading_shift_int=\count179
+\c__fp_middle_shift_int=\count180
+\c__fp_trailing_shift_int=\count181
+\c__fp_big_leading_shift_int=\count182
+\c__fp_big_middle_shift_int=\count183
+\c__fp_big_trailing_shift_int=\count184
+\c__fp_Bigg_leading_shift_int=\count185
+\c__fp_Bigg_middle_shift_int=\count186
+\c__fp_Bigg_trailing_shift_int=\count187
+\l__sort_length_int=\count188
+\l__sort_min_int=\count189
+\l__sort_top_int=\count190
+\l__sort_max_int=\count191
+\l__sort_true_max_int=\count192
+\l__sort_block_int=\count193
+\l__sort_begin_int=\count194
+\l__sort_end_int=\count266
+\l__sort_A_int=\count267
+\l__sort_B_int=\count268
+\l__sort_C_int=\count269
+\l__tl_build_start_index_int=\count270
+\l__tl_build_index_int=\count271
+\l__tl_analysis_normal_int=\count272
+\l__tl_analysis_index_int=\count273
+\l__tl_analysis_nesting_int=\count274
+\l__tl_analysis_type_int=\count275
+\l__regex_internal_a_int=\count276
+\l__regex_internal_b_int=\count277
+\l__regex_internal_c_int=\count278
+\l__regex_balance_int=\count279
+\l__regex_group_level_int=\count280
+\l__regex_mode_int=\count281
+\c__regex_cs_in_class_mode_int=\count282
+\c__regex_cs_mode_int=\count283
+\l__regex_catcodes_int=\count284
+\l__regex_default_catcodes_int=\count285
+\c__regex_catcode_L_int=\count286
+\c__regex_catcode_O_int=\count287
+\c__regex_catcode_A_int=\count288
+\c__regex_all_catcodes_int=\count289
+\l__regex_show_lines_int=\count290
+\l__regex_min_state_int=\count291
+\l__regex_max_state_int=\count292
+\l__regex_left_state_int=\count293
+\l__regex_right_state_int=\count294
+\l__regex_capturing_group_int=\count295
+\l__regex_min_pos_int=\count296
+\l__regex_max_pos_int=\count297
+\l__regex_curr_pos_int=\count298
+\l__regex_start_pos_int=\count299
+\l__regex_success_pos_int=\count300
+\l__regex_curr_char_int=\count301
+\l__regex_curr_catcode_int=\count302
+\l__regex_last_char_int=\count303
+\l__regex_case_changed_char_int=\count304
+\l__regex_curr_state_int=\count305
+\l__regex_step_int=\count306
+\l__regex_min_active_int=\count307
+\l__regex_max_active_int=\count308
+\l__regex_replacement_csnames_int=\count309
+\l__regex_match_count_int=\count310
+\l__regex_min_submatch_int=\count311
+\l__regex_submatch_int=\count312
+\l__regex_zeroth_submatch_int=\count313
+\g__debug_trace_regex_int=\count314
 \c_empty_box=\box35
 \l_tmpa_box=\box36
 \l_tmpb_box=\box37
@@ -766,30 +761,29 @@ Package: expl3 2017/07/19 L3 programming layer (code)
 )
 (/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
-\g__driver_image_int=\count314
+\g__driver_image_int=\count315
 \l__driver_tmp_box=\box50
 ))
-(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2017/07/19 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count315
-\g__xparse_grabber_int=\count316
-\l__xparse_m_args_int=\count317
-\l__xparse_mandatory_args_int=\count318
-\l__xparse_v_nesting_int=\count319
+Package: xparse 2017/11/14 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count316
+\g__xparse_grabber_int=\count317
+\l__xparse_m_args_int=\count318
+\l__xparse_mandatory_args_int=\count319
+\l__xparse_v_nesting_int=\count320
 )
-Package: fontspec 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTeX
+Package: fontspec 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTeX
 
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2017/07/23 v2.6c Font selection for XeLaTeX and LuaLaTe
+Package: fontspec-xetex 2017/11/09 v2.6g Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count320
-\l__fontspec_language_int=\count321
-\l__fontspec_strnum_int=\count322
-\l__fontspec_tmp_int=\count323
-\l__fontspec_em_int=\count324
-\l__fontspec_emdef_int=\count325
-\l__fontspec_strong_int=\count326
-\l__fontspec_strongdef_int=\count327
+\l__fontspec_script_int=\count321
+\l__fontspec_language_int=\count322
+\l__fontspec_strnum_int=\count323
+\l__fontspec_tmp_int=\count324
+\l__fontspec_em_int=\count325
+\l__fontspec_emdef_int=\count326
+\l__fontspec_strong_int=\count327
+\l__fontspec_strongdef_int=\count328
 \l__fontspec_tmpa_dim=\dimen267
 \l__fontspec_tmpb_dim=\dimen268
 \l__fontspec_tmpc_dim=\dimen269
@@ -801,180 +795,202 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 (/usr/share/texmf-dist/tex/latex/base/tuenc.def
 File: tuenc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
-))
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \fontspec with sig. 'O{}mO{}' on line 474.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmainfont with sig. 'O{}mO{}' on line 485.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setsansfont with sig. 'O{}mO{}' on line 505.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmonofont with sig. 'O{}mO{}' on line 525.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setromanfont with sig. 'O{}mO{}' on line 545.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathrm with sig. 'O{}mO{}' on line 549.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 557.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathsf with sig. 'O{}mO{}' on line 565.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \setmathtt with sig. 'O{}mO{}' on line 573.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 588.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontface with sig. 'mO{}mO{}' on line 605.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \defaultfontfeatures with sig. 't+om' on line 616.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \addfontfeatures with sig. 'm' on line 647.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontfeature with sig. 'mm' on line 674.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newAATfeature with sig. 'mmmm' on line 688.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newopentypefeature with sig. 'mmm' on line 702.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newICUfeature with sig. 'mmm' on line 722.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeature with sig. 'mm' on line 726.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 747.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontscript with sig. 'mm' on line 780.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \newfontlanguage with sig. 'mm' on line 784.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareFontsExtensions with sig. 'm' on line 788.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 799.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCommand with sig. 'mO{}m' on line 3462.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingAccent with sig. 'mm' on line 3468.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingSymbol with sig. 'mm' on line 3474.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingComposite with sig. 'mmm' on line 3480.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3486.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3511.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareSymbol with sig. 'm' on line 3517.
-.................................................
-.................................................
-. LaTeX info: "xparse/define-command"
-. 
-. Defining command \UndeclareComposite with sig. 'mm' on line 3525.
-.................................................
+)
+LaTeX Font Info:    Try loading font information for TU+cmr on input line 105.
+LaTeX Font Info:    No file TUcmr.fd. on input line 105.
 
-(/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
-LaTeX Info: Redefining \itshape on input line 3710.
-LaTeX Info: Redefining \slshape on input line 3715.
-LaTeX Info: Redefining \scshape on input line 3720.
-LaTeX Info: Redefining \upshape on input line 3725.
-LaTeX Info: Redefining \em on input line 3755.
-LaTeX Info: Redefining \emph on input line 3780.
-LaTeX Info: Redefining \- on input line 3831.
+
+LaTeX Font Warning: Font shape `TU/cmr/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 105.
+
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'O{}mO{}' on line 542.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'O{}mO{}' on line 546.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'O{}mO{}' on line 550.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'O{}mO{}' on line 554.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'O{}mO{}' on line 558.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'O{}mO{}' on line 562.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'O{}mO{}' on line 566.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'O{}mO{}' on line 570.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setromanfont with sig. 'O{}mO{}' on line 574.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mO{}mO{}' on line 578.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mO{}mO{}' on line 582.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeature with sig. 'm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 598.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 602.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 606.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newICUfeature with sig. 'mmm' on line 610.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 614.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 618.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 622.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 626.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 630.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \IfFontFeatureActiveTF with sig. 'mmm' on line 634.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCommand with sig. 'mO{}m' on line 3632.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingAccent with sig. 'mm' on line 3638.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingSymbol with sig. 'mm' on line 3644.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingComposite with sig. 'mmm' on line 3650.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \EncodingCompositeCommand with sig. 'mmm' on line 3656.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareUnicodeEncoding with sig. 'mm' on line 3681.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareSymbol with sig. 'm' on line 3687.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareAccent with sig. 'm' on line 3693.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareCommand with sig. 'm' on line 3699.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \UndeclareComposite with sig. 'mm' on line 3706.
+.................................................
+ (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 3891.
+LaTeX Info: Redefining \slshape on input line 3896.
+LaTeX Info: Redefining \scshape on input line 3901.
+LaTeX Info: Redefining \upshape on input line 3906.
+LaTeX Info: Redefining \em on input line 3936.
+LaTeX Info: Redefining \emph on input line 3961.
+LaTeX Info: Redefining \- on input line 4015.
 .................................................
 . LaTeX info: "xparse/redefine-command"
 . 
-. Redefining command \oldstylenums with sig. 'm' on line 3926.
+. Redefining command \oldstylenums with sig. 'm' on line 4110.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \liningnums with sig. 'm' on line 3930.
+. Defining command \liningnums with sig. 'm' on line 4114.
 .................................................
 ))
 (/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty
@@ -983,12 +999,24 @@ other characters in Unicode lower plane
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
+
+
+LaTeX Font Warning: Font shape `TU/cmr/m/sl' undefined
+(Font)              using `TU/cmr/m/n' instead on input line 316.
+
+
+LaTeX Font Warning: Font shape `TU/cmr/m/it' undefined
+(Font)              using `TU/cmr/m/n' instead on input line 316.
+
+
+LaTeX Font Warning: Font shape `TU/cmr/bx/n' undefined
+(Font)              using `TU/cmr/m/n' instead on input line 356.
+
 )
-\tipaTiiicode=\count328
+\tipaTiiicode=\count329
 \tipasavetokens=\toks30
 \tipachecktokens=\toks31
-
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
@@ -1008,7 +1036,7 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 \Gin@req@height=\dimen270
 \Gin@req@width=\dimen271
 ))
-\g__fontspec_family_LinuxLibertineO_int=\count329
+\g__fontspec_family_LinuxLibertineO_int=\count330
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1045,7 +1073,7 @@ File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 LaTeX Info: Redefining \rmfamily on input line 6.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-\g__fontspec_family_WenQuanYiMicroHei_int=\count330
+\g__fontspec_family_WenQuanYiMicroHei_int=\count331
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1195,14 +1223,14 @@ Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 (/usr/share/texmf-dist/tex/latex/shorttoc/shorttoc.sty
 Package: shorttoc 2002/08/20 v1.3 Short table of contents (JPFD)
 )
-\c@@sectionNumCenter=\count331
+\c@@sectionNumCenter=\count332
 )
 (/home/editorial/texmf/tex/penalidades.sty)
 (/home/editorial/texmf/tex/graficos.sty
 (/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen273
 \WF@size=\dimen274
-\c@WF@wrappedlines=\count332
+\c@WF@wrappedlines=\count333
 \WF@box=\box51
 \WF@everypar=\toks32
 Package: wrapfig 2003/01/31  v 3.6
@@ -1228,7 +1256,7 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen280
 \caption@hangindent=\dimen281
 )
-\c@ContinuedFloat=\count333
+\c@ContinuedFloat=\count334
 Package caption Info: wrapfig package is loaded.
 )
 (/usr/share/texmf-dist/tex/latex/textpos/textpos.sty
@@ -1298,12 +1326,12 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@outerparindent=\dimen288
 \enit@toks=\toks34
 \enit@inbox=\box53
-\enitdp@description=\count334
+\enitdp@description=\count335
 ))
 (/home/editorial/texmf/tex/versos.sty) (./gitrevisioninfo.sty)
 (/usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count335
+\c@tracingst=\count336
 \ST@wd=\dimen289
 \ST@rightskip=\skip266
 \ST@leftskip=\skip267
@@ -1322,16 +1350,16 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 )
 (/usr/share/texmf-dist/tex/latex/paracol/paracol.sty
 Package: paracol 2015/10/10 v1.32 
-\pcol@currcol=\count336
-\pcol@nextcol=\count337
-\pcol@ncol=\count338
-\pcol@ncolleft=\count339
-\pcol@page=\count340
-\pcol@basepage=\count341
-\pcol@toppage=\count342
-\pcol@footnotebase=\count343
-\pcol@nfootnotes=\count344
-\pcol@mcid=\count345
+\pcol@currcol=\count337
+\pcol@nextcol=\count338
+\pcol@ncol=\count339
+\pcol@ncolleft=\count340
+\pcol@page=\count341
+\pcol@basepage=\count342
+\pcol@toppage=\count343
+\pcol@footnotebase=\count344
+\pcol@nfootnotes=\count345
+\pcol@mcid=\count346
 \pcol@prevdepth=\dimen300
 \pcol@colht=\dimen301
 \pcol@textfloatsep=\dimen302
@@ -1366,13 +1394,6 @@ LaTeX Font Info:    Try loading font information for LGR+cmr on input line 38.
 
 (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
-)
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 38.
-
-(/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
-File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    ... okay on input line 38.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 38.
@@ -1557,7 +1578,7 @@ casião da tinta
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 29--29
+Underfull \hbox (badness 1107) in paragraph at lines 30--30
 []|\TU/LinuxLibertineO(0)/m/n/10.95 O que nos levanta sobre a terra: alegria e 
 saudade fazendo 
  []
@@ -1566,7 +1587,7 @@ saudade fazendo
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (7.62288pt too wide) in paragraph at lines 66--66
+Overfull \hbox (7.62288pt too wide) in paragraph at lines 69--69
 []|\TU/LinuxLibertineO(0)/m/n/10.95 Mobilidade, modalidades de assentamentos e 
 formas organizacionais 
  []
@@ -1592,7 +1613,7 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
  [9]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 77.
+(Font)              <12> on input line 76.
  [10]
 Overfull \vbox (5.156pt too high) has occurred while \output is active []
 
@@ -1618,9 +1639,6 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
-Overfull \vbox (5.62386pt too high) has occurred while \output is active []
-
-
 [27] [28] [29]
 Underfull \hbox (badness 1024) in paragraph at lines 577--587
 []\TU/LinuxLibertineO(0)/m/n/12 Nós estamos nos organizando também, procurando 
@@ -1634,37 +1652,27 @@ File: ./img/GUARANIS-img2.jpg Graphic file (type bmp)
 
 ] [34] [35] [36
 
-] [37]
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [38] [39] [40] [41] [42] [43] [44]
-Underfull \hbox (badness 1997) in paragraph at lines 1025--1029
+] [37] [38] [39] [40] [41] [42] [43] [44]
+Underfull \hbox (badness 1997) in paragraph at lines 1026--1030
 []\TU/LinuxLibertineO(0)/m/n/12 Na luta política frente ao Estado Nacional, as 
 lideranças
  []
 
-[45] [46] [47] [48
+[45] [46] [47] [48] [49
 
-] [49]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1161.
-
-Overfull \vbox (2.30399pt too high) has occurred while \output is active []
+]
+Overfull \vbox (9.54214pt too high) has occurred while \output is active []
 
 
 [50] [51]
-Overfull \vbox (5.10797pt too high) has occurred while \output is active []
+Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
-[52]
-Overfull \vbox (7.60797pt too high) has occurred while \output is active []
-
-
-[53]
-Overfull \vbox (4.656pt too high) has occurred while \output is active []
+[52] [53]
+Overfull \vbox (9.656pt too high) has occurred while \output is active []
 
  [54]
-Overfull \vbox (6.47603pt too high) has occurred while \output is active []
+Overfull \vbox (16.15607pt too high) has occurred while \output is active []
 
 
 [55]
@@ -1672,41 +1680,49 @@ Overfull \vbox (14.656pt too high) has occurred while \output is active []
 
 
 [56]
-Overfull \vbox (7.65598pt too high) has occurred while \output is active []
+Overfull \vbox (7.24797pt too high) has occurred while \output is active []
 
 
 [57]
-Overfull \vbox (19.65598pt too high) has occurred while \output is active []
+Overfull \vbox (5.10797pt too high) has occurred while \output is active []
 
 
 [58]
-Overfull \vbox (19.50403pt too high) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 1497--1497
+[]\TU/LinuxLibertineO(0)/m/n/10 16. []Para o vídeo “Mbaraka: a palavra que age”
+ — les-
+ []
 
 
-[59]
-Overfull \vbox (9.05835pt too high) has occurred while \output is active []
+Underfull \hbox (badness 2538) in paragraph at lines 1497--1497
+\TU/LinuxLibertineO(0)/m/n/10 shttps://vimeo.com/34768557greater. O texto final
+ da tradução deve-se es-
+ []
 
 
-[60]
-Overfull \vbox (9.35597pt too high) has occurred while \output is active []
+Overfull \vbox (16.59018pt too high) has occurred while \output is active []
 
 
-[61] [62] [63] [64] [65] [66]
-Underfull \hbox (badness 1681) in paragraph at lines 1825--1829
+[59] [60] [61] [62]
+Overfull \vbox (19.656pt too high) has occurred while \output is active []
+
+
+[63] [64] [65] [66] [67]
+Underfull \hbox (badness 1681) in paragraph at lines 1822--1826
 \TU/LinuxLibertineO(0)/m/n/12 mopolítico: da necessidade extensiva à suficiênci
 a intensiva”.
  []
 
-[67] [68] [69
+[68] [69
 
 ] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 1935--1935
+Underfull \hbox (badness 10000) in paragraph at lines 1931--1931
 []\TU/LinuxLibertineO(0)/m/n/10 2. []http://www.ihu.unisinos.br/noticias/514921
 -situacao-de-indios-guarani-
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 1931--1938
+Underfull \hbox (badness 2837) in paragraph at lines 1927--1934
 \TU/LinuxLibertineO(0)/m/n/12 expulsão de indígenas guarani e kaiowa de seus te
 rritórios,
  []
@@ -1729,246 +1745,218 @@ File: ./img/GUARANIS-img3.jpg Graphic file (type bmp)
 Overfull \vbox (12.65598pt too high) has occurred while \output is active []
 
 
-[85] [86] [87] [88
-
-]
+[85] [86]
 Overfull \vbox (8.57585pt too high) has occurred while \output is active []
 
 
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98]
+[87
+
+] [88] [89] [90] [91] [92] [93] [94] [95] [96
+
+]
 Overfull \vbox (10.57588pt too high) has occurred while \output is active []
 
 
-[99
+[97] [98] [99] [100] [101] [102] [103] [104]
+Overfull \vbox (12.09015pt too high) has occurred while \output is active []
 
-] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116
+
+[105] [106] [107] [108] [109] [110] [111] [112] [113] [114
 
 ]
 Overfull \vbox (12.57591pt too high) has occurred while \output is active []
 
 
-[117]
+[115]
 Overfull \vbox (4.15604pt too high) has occurred while \output is active []
 
 
-[118] [119]
-Underfull \hbox (badness 1466) in paragraph at lines 3282--3290
+[116] [117]
+Underfull \hbox (badness 1466) in paragraph at lines 3262--3270
 \TU/LinuxLibertineO(0)/m/n/12 mais adiante, afirmam que os jovens, assim como o
 s recém-
  []
 
-[120]
-Underfull \hbox (badness 1137) in paragraph at lines 3325--3329
+[118]
+Underfull \hbox (badness 1137) in paragraph at lines 3305--3309
 \TU/LinuxLibertineO(0)/m/n/10 Antigamente, para as mulheres jo-
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 3325--3329
+Underfull \hbox (badness 4660) in paragraph at lines 3305--3309
 \TU/LinuxLibertineO(0)/m/n/10 vens não sofrerem transformação,
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 3325--3329
+Underfull \hbox (badness 1043) in paragraph at lines 3305--3309
 \TU/LinuxLibertineO(0)/m/n/10 logo que se tornassem adultas (lit.
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 3333--3336
+Underfull \hbox (badness 2884) in paragraph at lines 3313--3316
 \TU/LinuxLibertineO(0)/m/n/10 Ka’aru ovy ramo omboguapy ma,
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 3359--3368
+Underfull \hbox (badness 1902) in paragraph at lines 3339--3348
 \TU/LinuxLibertineO(0)/m/n/10 falavam logo, eles contavam logo:
  []
 
-[121]
-Overfull \vbox (8.90002pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (8.90002pt too high) has occurred while \output is active []
-
-
-[122]
-Underfull \hbox (badness 7814) in paragraph at lines 3463--3467
+[119] [120]
+Underfull \hbox (badness 7814) in paragraph at lines 3443--3447
 \TU/LinuxLibertineO(0)/m/n/10 “Rejejogua vai’i ‘rã, rejepota ‘rã
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3494--3500
+Underfull \hbox (badness 10000) in paragraph at lines 3474--3480
 \TU/LinuxLibertineO(0)/m/n/10 Ha’e gui jevy anhete opamba’e-
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 3494--3500
+Underfull \hbox (badness 1043) in paragraph at lines 3474--3480
 \TU/LinuxLibertineO(0)/m/n/10 va’ekue. “\TU/LinuxLibertineO(0)/m/it/10 Anyĩ ke 
 tape re rekaru\TU/LinuxLibertineO(0)/m/n/10 ”
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3524--3531
+Underfull \hbox (badness 10000) in paragraph at lines 3504--3511
 
  []
 
-
-Overfull \vbox (24.0pt too high) has occurred while \output is active []
-
- [123]
-[124] [125]
-Overfull \vbox (18.00398pt too high) has occurred while \output is active []
+[121] [122] [123]
+Overfull \vbox (16.54214pt too high) has occurred while \output is active []
 
 
-[126]
-Underfull \hbox (badness 1502) in paragraph at lines 3685--3689
+[124]
+Underfull \hbox (badness 1502) in paragraph at lines 3663--3667
 []\TU/LinuxLibertineO(0)/m/n/10 Ha’e rami vy ae tu omba’exo
  []
 
 
-Underfull \hbox (badness 2547) in paragraph at lines 3685--3689
+Underfull \hbox (badness 2547) in paragraph at lines 3663--3667
 \TU/LinuxLibertineO(0)/m/it/10 ka’aguy rovapy re, kii ema’ẽ eme
  []
 
-[127]
-Underfull \hbox (badness 2351) in paragraph at lines 3726--3731
+[125]
+Underfull \hbox (badness 2351) in paragraph at lines 3704--3709
 \TU/LinuxLibertineO(0)/m/n/10 ndoikoi, ndojepotai. Oiko porã’i.
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 3748--3754
+Underfull \hbox (badness 1831) in paragraph at lines 3726--3732
 \TU/LinuxLibertineO(0)/m/n/10 Porque no lugar onde os homens
  []
 
-
-Overfull \vbox (21.10797pt too high) has occurred while \output is active []
-
-
-[128] [129] [130]
-Overfull \vbox (15.88991pt too high) has occurred while \output is active []
+[126] [127] [128] [129]
+Overfull \vbox (18.32506pt too high) has occurred while \output is active []
 
 
-[131]
-Underfull \hbox (badness 1394) in paragraph at lines 3912--3915
+[130]
+Underfull \hbox (badness 1394) in paragraph at lines 3890--3893
 \TU/LinuxLibertineO(0)/m/n/10 nossa menstruação aparece só um
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 3917--3921
+Underfull \hbox (badness 1394) in paragraph at lines 3895--3899
 []\TU/LinuxLibertineO(0)/m/n/10 Ha’e rami ma kyrĩ’i rima oje-
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 3917--3921
+Underfull \hbox (badness 1043) in paragraph at lines 3895--3899
 \TU/LinuxLibertineO(0)/m/n/10 kuaai kyrĩ’i ete nekaxõ’i ha’e va’e
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 3917--3921
+Underfull \hbox (badness 1748) in paragraph at lines 3895--3899
 \TU/LinuxLibertineO(0)/m/n/10 remombe’u, ndexy oguerovy’a ete:
  []
 
 
-Overfull \hbox (7.51784pt too wide) in paragraph at lines 3945--3948
+Overfull \hbox (7.51784pt too wide) in paragraph at lines 3923--3926
 \TU/LinuxLibertineO(0)/m/n/10 rami vy rima yma ikuai va’e, nda’ijayvu
  []
 
-[132]
-Underfull \hbox (badness 1019) in paragraph at lines 3969--3970
+
+Underfull \hbox (badness 1019) in paragraph at lines 3947--3948
 []\TU/LinuxLibertineO(0)/m/n/10 Depois, ensinariam: “\TU/LinuxLibertineO(0)/m/i
 t/10 Não fale
  []
 
-
-Overfull \vbox (12.60797pt too high) has occurred while \output is active []
-
-
-[133]
-Underfull \hbox (badness 1533) in paragraph at lines 4038--4042
-[]\TU/LinuxLibertineO(0)/m/n/12 Neste sentido, Jaxuka também explicou que, quan
-do teve
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 4038--4042
-\TU/LinuxLibertineO(0)/m/n/12 a primeira menstruação, foi ensinada a preparar a
-limentos e
- []
-
-[134]
-Underfull \hbox (badness 1552) in paragraph at lines 4047--4052
+[131] [132] [133]
+Underfull \hbox (badness 1552) in paragraph at lines 4025--4030
 \TU/LinuxLibertineO(0)/m/n/10 endui, nem televisão naendui, nei
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4047--4052
+Underfull \hbox (badness 10000) in paragraph at lines 4025--4030
 \TU/LinuxLibertineO(0)/m/n/10 re. Xemomba’exo avi va’ekue.
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 4047--4052
+Underfull \hbox (badness 1308) in paragraph at lines 4025--4030
 \TU/LinuxLibertineO(0)/m/it/10 memby reta ramo remongaru kuaa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4054--4059
+Underfull \hbox (badness 10000) in paragraph at lines 4032--4037
 []\TU/LinuxLibertineO(0)/m/n/10 Quando tive minha primeira
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 4054--4059
+Underfull \hbox (badness 1661) in paragraph at lines 4032--4037
 \TU/LinuxLibertineO(0)/m/n/10 cozinhávamos a fruta da palmeira
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 4061--4064
+Underfull \hbox (badness 4913) in paragraph at lines 4039--4042
 []\TU/LinuxLibertineO(0)/m/n/10 Peteĩ oĩ avei, iporayvu aguã
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 4080--4087
+Underfull \hbox (badness 4120) in paragraph at lines 4058--4065
 \TU/LinuxLibertineO(0)/m/n/10 nunga ae avi oexy uka’i vy ma
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 4080--4087
+Underfull \hbox (badness 6268) in paragraph at lines 4058--4065
 \TU/LinuxLibertineO(0)/m/n/10 gui ma oenoimba kyrigue’i, yxy
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 4080--4087
+Underfull \hbox (badness 2735) in paragraph at lines 4058--4065
 \TU/LinuxLibertineO(0)/m/n/10 avei, fila ojapo kyrigue’i, pee py
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 4080--4087
+Underfull \hbox (badness 2065) in paragraph at lines 4058--4065
 \TU/LinuxLibertineO(0)/m/n/10 Imba’e ome’ẽ aguã ma je ombo’e.
  []
 
 
-Underfull \hbox (badness 5091) in paragraph at lines 4080--4087
+Underfull \hbox (badness 5091) in paragraph at lines 4058--4065
 \TU/LinuxLibertineO(0)/m/n/10 Omboja’opa’i kova’e nunga ri tu
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 4089--4096
+Underfull \hbox (badness 7047) in paragraph at lines 4067--4074
 []\TU/LinuxLibertineO(0)/m/n/10 Enquanto está em resguardo,
  []
 
-
-Underfull \hbox (badness 2142) in paragraph at lines 4098--4102
+[134]
+Underfull \hbox (badness 2142) in paragraph at lines 4076--4080
 \TU/LinuxLibertineO(0)/m/it/10 re’u’i. Ha’e rami renhembo’e rire
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4104--4109
+Underfull \hbox (badness 10000) in paragraph at lines 4082--4087
 []\TU/LinuxLibertineO(0)/m/n/10 Foi assim que me criaram.
  []
 
-[135] [136]
-Overfull \vbox (14.30408pt too high) has occurred while \output is active []
+[135]
+Overfull \vbox (10.32509pt too high) has occurred while \output is active []
 
 
-[137] [138] [139] [140
+[136] [137] [138] [139] [140
 
 ] [141] [142]
 File: ./img/GUARANIS-img4.jpg Graphic file (type bmp)
@@ -1988,7 +1976,7 @@ Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
 [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
-Overfull \vbox (12.65598pt too high) has occurred while \output is active []
+Overfull \vbox (12.47597pt too high) has occurred while \output is active []
 
 
 [161] [162] [163] [164
@@ -2000,166 +1988,177 @@ Overfull \vbox (18.43375pt too high) has occurred while \output is active []
 [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176]
 [177] [178] [179] [180] [181
 
-] [182]
+] [182
+
+] [183] [184]
 Overfull \vbox (7.156pt too high) has occurred while \output is active []
 
- [183]
+ [185]
 Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
-[184]
-Overfull \vbox (7.60797pt too high) has occurred while \output is active []
+[186]
+Overfull \vbox (13.68295pt too high) has occurred while \output is active []
 
 
-[185]
-Overfull \vbox (2.248pt too high) has occurred while \output is active []
+[187]
+Overfull \vbox (16.748pt too high) has occurred while \output is active []
 
- [186]
-[187] [188] [189] [190]
-Unknown feature `protrusion=default' in font `Linux Libertine O Semibold Italic
-'.
-Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
-.
- [191]
+
+[188] [189] [190] [191] [192] [193]
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
-[192] [193]
-Overfull \vbox (10.77316pt too high) has occurred while \output is active []
+[194] [195]
+Overfull \vbox (5.07915pt too high) has occurred while \output is active []
 
 
-[194] [195] [196]
+[196] [197] [198]
 Overfull \vbox (5.07588pt too high) has occurred while \output is active []
 
 
-[197
+[199
 
 ]
 Overfull \vbox (5.10797pt too high) has occurred while \output is active []
 
 
-[198]
+[200]
 Overfull \vbox (17.10797pt too high) has occurred while \output is active []
 
 
-[199] [200] [201] [202] [203] [204]
-Overfull \vbox (18.68295pt too high) has occurred while \output is active []
-
-
-[205]
-Overfull \vbox (12.65598pt too high) has occurred while \output is active []
-
-
-[206]
-Overfull \vbox (10.15598pt too high) has occurred while \output is active []
+[201] [202] [203] [204] [205] [206]
+Overfull \vbox (18.73096pt too high) has occurred while \output is active []
 
 
 [207]
-Overfull \vbox (7.60797pt too high) has occurred while \output is active []
-
-
-[208]
 Overfull \vbox (12.60797pt too high) has occurred while \output is active []
 
 
-[209]
+[208]
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
+[209]
+Overfull \vbox (7.19997pt too high) has occurred while \output is active []
+
+
 [210] [211]
+Overfull \vbox (10.15598pt too high) has occurred while \output is active []
+
+
+[212] [213]
 Overfull \vbox (9.60803pt too high) has occurred while \output is active []
 
 
-[212] [213] [214] [215] [216]
-Overfull \hbox (7.80936pt too wide) in paragraph at lines 6840--6841
+[214] [215] [216] [217] [218]
+Overfull \hbox (7.80936pt too wide) in paragraph at lines 6818--6819
 []\TU/LinuxLibertineO(0)/m/sc/12 vilaça\TU/LinuxLibertineO(0)/m/n/12 , Aparecid
 a. “Conversão, predação e perspectiva”. \TU/LinuxLibertineO(0)/m/it/12 Mana \TU
 /LinuxLibertineO(0)/m/n/12 14(1),
  []
 
-[217] [218]
+[219] [220]
 Overfull \vbox (19.12389pt too high) has occurred while \output is active []
 
 
-[219
+[221
 
-] [220]
-Underfull \hbox (badness 1259) in paragraph at lines 6940--6953
+] [222]
+Underfull \hbox (badness 1259) in paragraph at lines 6918--6931
 \TU/LinuxLibertineO(0)/m/n/12 guarani ao princípio de identidade, e que vemos d
 esembocar
  []
 
-[221]
+[223]
 Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
-[222] [223]
+[224] [225]
 Overfull \vbox (12.10797pt too high) has occurred while \output is active []
 
 
-[224] [225] [226]
+[226] [227] [228]
 Overfull \vbox (17.108pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[229] [230]
+Overfull \vbox (17.108pt too high) has occurred while \output is active []
+=======
 [227] [228]
 Overfull \vbox (17.156pt too high) has occurred while \output is active []
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 
 
-[229] [230] [231] [232] [233] [234] [235] [236] [237
+[231] [232] [233] [234] [235] [236] [237] [238] [239
 
-] [238]
+] [240]
 File: ./img/GUARANIS-img5.jpg Graphic file (type bmp)
 <./img/GUARANIS-img5.jpg>
- [239] [240
+ [241] [242
 
 ]
 Overfull \vbox (19.57585pt too high) has occurred while \output is active []
 
 
-[241] [242] [243] [244] [245] [246
+[243] [244] [245] [246] [247] [248
 
 ]
 Overfull \vbox (5.07585pt too high) has occurred while \output is active []
 
 
-[247] [248] [249] [250
+[249] [250] [251] [252
 
-] [251] [252] [253] [254
+] [253] [254] [255] [256
 
-] [255] [256] [257] [258
+] [257] [258] [259] [260
 
 ]
-[259]
+[261]
 Overfull \vbox (19.656pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[262]
+Underfull \hbox (badness 10000) in paragraph at lines 7995--7995
+=======
 [260]
-Underfull \hbox (badness 10000) in paragraph at lines 8017--8017
+Underfull \hbox (badness 10000) in paragraph at lines 7994--7994
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/10 7. []\TU/LinuxLibertineO(0)/m/it/10 Silent geno
 cide\TU/LinuxLibertineO(0)/m/n/10 , Māori Television (2013, parte
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8017--8017
+Underfull \hbox (badness 10000) in paragraph at lines 7994--7994
 \TU/LinuxLibertineO(0)/m/sc/10 i \TU/LinuxLibertineO(0)/m/n/10 e parte \TU/Linu
 xLibertineO(0)/m/sc/10 ii\TU/LinuxLibertineO(0)/m/n/10 , 12’10” e 13’58”). Disp
 onível em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8017--8017
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 7995--7995
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 7994--7994
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 \TU/LinuxLibertineO(0)/m/n/10 http://www.maoritelevision.com/news/national/nati
 ve-affairs-brazil-silent-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8017--8017
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 7995--7995
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 7994--7994
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 \TU/LinuxLibertineO(0)/m/n/10 genocide-part-1 e lesshttp://www.maoritelevision.
 com/news/national/native-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8030--8030
+Underfull \hbox (badness 10000) in paragraph at lines 8007--8007
 []\TU/LinuxLibertineO(0)/m/n/10 9. []À sombra de um delírio verde (2011, 29’). 
 Disponível em
  []
@@ -2168,6 +2167,18 @@ Disponível em
 Overfull \vbox (4.65604pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[263] [264]
+Overfull \vbox (19.656pt too high) has occurred while \output is active []
+
+
+[265] [266] [267]
+Overfull \vbox (13.73096pt too high) has occurred while \output is active []
+
+
+[268]
+Overfull \hbox (4.456pt too wide) in paragraph at lines 8204--8210
+=======
 [261] [262]
 Overfull \vbox (19.656pt too high) has occurred while \output is active []
 
@@ -2177,7 +2188,8 @@ Overfull \vbox (13.73096pt too high) has occurred while \output is active []
 
 
 [266]
-Overfull \hbox (4.456pt too wide) in paragraph at lines 8226--8232
+Overfull \hbox (4.456pt too wide) in paragraph at lines 8203--8209
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/12 Os membros do coletivo que compõem a Ascuri aut
 odenominam-
  []
@@ -2186,24 +2198,53 @@ odenominam-
 Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
-[267] [268]
+[269] [270]
 Overfull \vbox (0.18309pt too high) has occurred while \output is active []
 
 
-[269] [270] [271] [272]
+[271] [272] [273] [274]
 Overfull \vbox (15.12389pt too high) has occurred while \output is active []
 
 
-[273
+[275
 
 ]
 Overfull \vbox (12.60797pt too high) has occurred while \output is active []
 
 
-[274] [275]
+[276] [277]
 Overfull \vbox (14.2829pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[278]
+Overfull \vbox (5.10797pt too high) has occurred while \output is active []
+
+
+[279] [280]
+Overfull \vbox (10.70406pt too high) has occurred while \output is active []
+
+
+[281]
+Overfull \vbox (12.108pt too high) has occurred while \output is active []
+
+
+[282] [283]
+Overfull \vbox (5.68298pt too high) has occurred while \output is active []
+
+
+[284]
+Overfull \vbox (17.10797pt too high) has occurred while \output is active []
+
+
+[285] [286] [287]
+Overfull \vbox (18.73096pt too high) has occurred while \output is active []
+
+
+[288] [289] [290
+
+] [291] [292]
+=======
 [276]
 Overfull \vbox (5.10797pt too high) has occurred while \output is active []
 
@@ -2231,13 +2272,18 @@ Overfull \vbox (18.73096pt too high) has occurred while \output is active []
 [286] [287] [288
 
 ] [289] [290]
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 File: ./img/GUARANIS-img6.jpg Graphic file (type bmp)
 <./img/GUARANIS-img6.jpg>
 
 
-LaTeX Warning: Float too large for page by 21.1257pt on input line 9005.
+<<<<<<< HEAD
+LaTeX Warning: Float too large for page by 21.1257pt on input line 8983.
+=======
+LaTeX Warning: Float too large for page by 21.1257pt on input line 8982.
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 
-[291] [292
+[293] [294
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
@@ -2246,21 +2292,26 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Overfull \vbox (19.91188pt too high) has occurred while \output is active []
 
 
-[293] [294]
+[295] [296]
 Overfull \vbox (14.60797pt too high) has occurred while \output is active []
 
 
-[295] [296] [297] [298] [299] [300] [301]
+[297] [298] [299] [300] [301] [302] [303]
 Overfull \vbox (12.15598pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[304] [305] [306] [307] [308] [309] [310] [311] [312]
+Underfull \hbox (badness 1629) in paragraph at lines 9637--9657
+=======
 [302] [303] [304] [305] [306] [307] [308] [309] [310]
-Underfull \hbox (badness 1629) in paragraph at lines 9659--9679
+Underfull \hbox (badness 1629) in paragraph at lines 9636--9656
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/12 A abordagem comparativa dessas modalidades de a
 ssenta-
  []
 
-[311] [312] [313] [314
+[313] [314] [315] [316
 
 ]
 File: ./img/GUARANIS-img7.jpg Graphic file (type bmp)
@@ -2269,8 +2320,13 @@ File: ./img/GUARANIS-img7.jpg Graphic file (type bmp)
 Overfull \vbox (16.69887pt too high) has occurred while \output is active []
 
 
+<<<<<<< HEAD
+[317] [318] [319] [320] [321] [322] [323]
+Underfull \hbox (badness 10000) in paragraph at lines 9979--9979
+=======
 [315] [316] [317] [318] [319] [320] [321]
-Underfull \hbox (badness 10000) in paragraph at lines 10001--10001
+Underfull \hbox (badness 10000) in paragraph at lines 9978--9978
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/10 4. []Disponível em: lesshttp://portalsaude.saud
 e.gov.br/index.php/o-
  []
@@ -2279,18 +2335,27 @@ e.gov.br/index.php/o-
 Overfull \vbox (11.18298pt too high) has occurred while \output is active []
 
 
-[322] [323] [324]
+[324] [325] [326]
 File: ./img/GUARANIS-img8.jpg Graphic file (type bmp)
 <./img/GUARANIS-img8.jpg>
+<<<<<<< HEAD
+ [327] [328] [329] [330] [331] [332]
+Underfull \hbox (badness 2213) in paragraph at lines 10317--10317
+=======
  [325] [326] [327] [328] [329] [330]
-Underfull \hbox (badness 2213) in paragraph at lines 10339--10339
+Underfull \hbox (badness 2213) in paragraph at lines 10316--10316
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/10 4. []Segundo o site da Comissão Pró-índio de Sã
 o Paulo, as \TU/LinuxLibertineO(0)/m/sc/10 ti \TU/LinuxLibertineO(0)/m/n/10 hab
 ita-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 10339--10339
+<<<<<<< HEAD
+Underfull \hbox (badness 2384) in paragraph at lines 10317--10317
+=======
+Underfull \hbox (badness 2384) in paragraph at lines 10316--10316
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 \TU/LinuxLibertineO(0)/m/n/10 há co-residência entre os Tupi Guarani, Guarani M
 bya e Terena. Fonte:
  []
@@ -2299,108 +2364,109 @@ bya e Terena. Fonte:
 Overfull \vbox (8.66797pt too high) has occurred while \output is active []
 
 
-[331
+[333
 
-] [332] [333]
-Overfull \vbox (17.97897pt too high) has occurred while \output is active []
-
-
-[334] [335]
-Overfull \vbox (11.80399pt too high) has occurred while \output is active []
+] [334] [335] [336]
+Overfull \vbox (17.82506pt too high) has occurred while \output is active []
 
 
-[336]
-Underfull \hbox (badness 3354) in paragraph at lines 10567--10579
+[337] [338]
+Overfull \vbox (9.3309pt too high) has occurred while \output is active []
+
+
+<<<<<<< HEAD
+[339]
+Underfull \hbox (badness 3354) in paragraph at lines 10542--10554
+=======
+[337]
+Underfull \hbox (badness 3354) in paragraph at lines 10541--10553
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
 []\TU/LinuxLibertineO(0)/m/n/12 Em Piaçaguera, \TU/LinuxLibertineO(0)/m/sc/12 t
 i \TU/LinuxLibertineO(0)/m/n/12 homologada no ano de 2011 (\TU/LinuxLibertineO(
 0)/m/sc/12 funai\TU/LinuxLibertineO(0)/m/n/12 :
  []
 
-[337]
-Overfull \vbox (1.25204pt too high) has occurred while \output is active []
+
+Overfull \vbox (10.82506pt too high) has occurred while \output is active []
 
 
-[338]
-Overfull \vbox (14.20004pt too high) has occurred while \output is active []
-
-
-[339]
+[340] [341] [342]
 Overfull \vbox (9.33093pt too high) has occurred while \output is active []
 
 
-[340] [341]
-Overfull \vbox (0.95203pt too high) has occurred while \output is active []
-
-
-[342]
-Overfull \vbox (12.108pt too high) has occurred while \output is active []
-
-
 [343]
-Overfull \vbox (18.18295pt too high) has occurred while \output is active []
+Overfull \vbox (14.9531pt too high) has occurred while \output is active []
 
 
-[344] [345] [346] [347] [348]
+[344]
+Overfull \vbox (12.156pt too high) has occurred while \output is active []
+
+
+[345]
+Overfull \vbox (1.95601pt too high) has occurred while \output is active []
+
+
+[346] [347] [348] [349] [350]
 Overfull \vbox (5.15096pt too high) has occurred while \output is active []
 
 
-[349
+[351
 
 ]
 Overfull \vbox (17.15598pt too high) has occurred while \output is active []
 
 
-[350]
+[352]
 Overfull \vbox (13.73096pt too high) has occurred while \output is active []
 
 
-[351]
+[353]
 Overfull \vbox (19.156pt too high) has occurred while \output is active []
 
 
-[352] [353]
+[354] [355]
 Overfull \vbox (19.65598pt too high) has occurred while \output is active []
 
 
-[354]
+[356]
 File: ./img/GUARANIS-img10.png Graphic file (type bmp)
 <./img/GUARANIS-img10.png>
 
 Overfull \vbox (5.48323pt too high) has occurred while \output is active []
 
 
-[355]
+[357]
 File: ./img/GUARANIS-img11.jpg Graphic file (type bmp)
 <./img/GUARANIS-img11.jpg>
 
 Overfull \vbox (10.15598pt too high) has occurred while \output is active []
 
 
-[356] [357]
+[358] [359]
 File: ./img/GUARANIS-img12.png Graphic file (type bmp)
 <./img/GUARANIS-img12.png>
- [358] [359] [360]
-Overfull \vbox (14.60797pt too high) has occurred while \output is active []
+ [360] [361] [362]
+Overfull \vbox (14.65598pt too high) has occurred while \output is active []
 
 
-[361] [362]
-Overfull \vbox (15.73099pt too high) has occurred while \output is active []
+[363] [364]
+Overfull \vbox (6.95601pt too high) has occurred while \output is active []
 
 
-[363] [364] [365] [366] [367] [368] [369] [370] [371
+[365] [366] [367] [368] [369] [370] [371] [372] [373
 
 ]
 Overfull \vbox (7.47098pt too high) has occurred while \output is active []
 
 
-[372] [373] [374] [375] [376] [377] [378] [379] [380] [381
+[374] [375] [376] [377] [378] [379] [380] [381] [382] [383
 
-])) [382]
+])) [384]
 
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex [383
+(/home/editorial/texmf/tex/PUBLICIDADE.tex [385
 
 
 
@@ -2411,27 +2477,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[384]
+[386]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [385] [386] [387]) [388
+ [387] [388] [389])
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 42.
+ [390
 
 
 ]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) )
+ (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
 (\end occurred when \ifeof on line 38 was incomplete) 
 Here is how much of TeX's memory you used:
- 26241 strings out of 492998
- 487323 string characters out of 6139960
- 705089 words of memory out of 5000000
- 29728 multiletter control sequences out of 15000+600000
- 544186 words of font info for 117 fonts, out of 8000000 for 9000
+ 26402 strings out of 493010
+ 490473 string characters out of 6140134
+ 721028 words of memory out of 5000000
+ 29887 multiletter control sequences out of 15000+600000
+ 544162 words of font info for 114 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 54i,12n,88p,10373b,668s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,87p,10416b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (388 pages, 7327932 bytes).
+<<<<<<< HEAD
+Output written on LIVRO.xdv (390 pages, 7333384 bytes).
+=======
+Output written on LIVRO.xdv (388 pages, 7330216 bytes).
+>>>>>>> fa60d1a4d1afbe6978e75b52880819311326d95c
