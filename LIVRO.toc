@@ -6,8 +6,8 @@
 \contentsline {chapter}{Carta veiculada pela Comissão Yvyrupa por ocasião da tinta vermelha no Monumento às Bandeiras}{33}
 \contentsline {chapter}{A caminho do Sol}{37}
 \contentsline {section}{Referências}{46}
-\contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos \emph {tekoha}}{49}
-\contentsline {section}{Referências}{65}
+\contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos \emph {tekoha}}{47}
+\contentsline {section}{Referências}{63}
 \contentsline {chapter}{\emph {Ore ava reko}: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{69}
 \contentsline {section}{A invasão das terras Guarani e Kaiowa}{69}
 \contentsline {section}{A força das \emph {Jeroky Guasu} e \emph {Aty Guasu}}{72}
@@ -69,6 +69,7 @@
 \contentsline {part}{Nas aldeias e entre aldeias}{291}
 \contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{295}
 \contentsline {section}{Antecedentes}{298}
+\contentsline {section}{Famílias kaiowá e guarani reacomodadas em periferias de cidades}{307}
 \contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{312}
 \contentsline {section}{Referências}{314}
 \contentsline {section}{Comentário final}{315}
