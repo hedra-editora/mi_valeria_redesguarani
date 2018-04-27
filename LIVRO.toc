@@ -1,32 +1,32 @@
-\select@language {brazilian}
+\babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{9}
 \contentsline {part}{Movimentos pela terra, andanças entre \\mundos}{23}
 \contentsline {chapter}{\emph {Aguyjevete} pra quem luta!}{27}
 \contentsline {chapter}{Carta veiculada pela Comissão Yvyrupa por ocasião da tinta vermelha no Monumento às Bandeiras}{33}
-\contentsline {chapter}{A caminho do Sol}{37}
+\contentsline {chapter}{A~caminho do Sol}{37}
 \contentsline {section}{Referências}{46}
-\contentsline {chapter}{Novas terras sem males: a luta guarani-kaiowa pelos \emph {tekoha}}{47}
+\contentsline {chapter}{Novas terras sem males: a luta guarani"-kaiowa pelos \emph {tekoha}}{47}
 \contentsline {section}{Referências}{63}
 \contentsline {chapter}{\emph {Ore ava reko}: luta dos Guarani e Kaiowa para manutenção de seu modo de ser e viver}{69}
 \contentsline {section}{A invasão das terras Guarani e Kaiowa}{69}
-\contentsline {section}{A força das \emph {Jeroky Guasu} e \emph {Aty Guasu}}{72}
+\contentsline {section}{A~força das \emph {Jeroky Guasu} e \emph {Aty Guasu}}{72}
 \contentsline {part}{Caminhos e conhecimentos}{77}
 \contentsline {chapter}{Sonhos e conhecimentos na vida guarani}{81}
 \contentsline {section}{Os sabedores na aldeia}{83}
 \contentsline {chapter}{Os \emph {xondaro} e a circulação de saberes no mundo de hoje}{89}
-\contentsline {section}{O despertar dos \emph {xondaro}}{91}
-\contentsline {section}{A escola e os saberes}{95}
+\contentsline {section}{O~despertar dos \emph {xondaro}}{91}
+\contentsline {section}{A~escola e os saberes}{95}
 \contentsline {chapter}{Processos de aprendizado pelos olhos das crianças guarani mbya}{99}
 \contentsline {section}{As \emph {kyringue} guarani mbya}{100}
 \contentsline {section}{Na \emph {opy}}{102}
 \contentsline {section}{Aprendizados como relações}{107}
-\contentsline {section}{A escola e os modos próprios de aprendizado guarani}{109}
+\contentsline {section}{A~escola e os modos próprios de aprendizado guarani}{109}
 \contentsline {section}{Referências}{113}
-\contentsline {chapter}{Tornar-se adulto sem deixar de ser gente: fazer (crescer) parentes}{117}
+\contentsline {chapter}{Tornar"-se adulto sem deixar de ser gente: fazer (crescer) parentes}{117}
 \contentsline {section}{Referências}{138}
 \contentsline {part}{Conexões, alteridades, alterações}{141}
-\contentsline {chapter}{O que nos levanta sobre a terra: alegria e saudade fazendo parentesco}{145}
+\contentsline {chapter}{O~que nos levanta sobre a terra: alegria e saudade fazendo parentesco}{145}
 \contentsline {section}{Palavras em movimento}{148}
 \contentsline {section}{Ausências povoadas}{155}
 \contentsline {section}{Referências}{162}
@@ -44,10 +44,10 @@
 \contentsline {section}{Referências}{196}
 \contentsline {chapter}{Mundéu do mundo: Predação e troca nas relações com os brancos}{199}
 \contentsline {section}{De provedores e predadores}{202}
-\contentsline {section}{O não se acostumar}{207}
+\contentsline {section}{O~não se acostumar}{207}
 \contentsline {section}{Referências}{217}
 \contentsline {section}{Comentário}{220}
-\contentsline {chapter}{O desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{221}
+\contentsline {chapter}{O~desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{221}
 \contentsline {section}{Referências}{236}
 \contentsline {part}{Tecnologias, circulação e transformação}{239}
 \contentsline {chapter}{Filmar histórias e transformar olhares}{243}
@@ -56,13 +56,13 @@
 \contentsline {section}{\emph {Roexauka rive}~vs.~\emph {avyukuaa ta’anga rupi, romombe’u aguã nhandereko régua} (Apenas mostrar vs. falar através das imagens, para contar sobre nosso modo de ser).}{253}
 \contentsline {section}{Linguagem e tecnologia}{255}
 \contentsline {chapter}{Entre enxadas e tratores: notas sobre um (des)encontro}{259}
-\contentsline {section}{Fazer-se para fazer}{266}
+\contentsline {section}{Fazer"-se para fazer}{266}
 \contentsline {section}{Guaranizar o computador}{269}
 \contentsline {section}{Referências}{272}
 \contentsline {chapter}{Comunicação, convívio e permuta em \emph {Yvy vai}}{275}
 \contentsline {section}{Princípios e processos de comunicação entre as pessoas e acesso às divindades criadoras}{278}
 \contentsline {section}{Todas as coisas têm seu dono guardião}{284}
-\contentsline {section}{\emph {Jurakuéry, etavaekuéry, yvypokuéry\footnote {O termo mais comumente empregado para designar os \emph {jurua} (brancos) é \emph {etavekuéry}. \emph {Etavekuéry} significa aqueles que são muitos, que hoje são maioria neste mundo. \emph {Yvypokuéry}, expressão mais utilizada em falas rituais, são os que foram gerados neste mundo em \emph {Yvy vai} e não possuem uma alma enviada de \emph {Nhanderu retã}. Essas designações são concebidas nos mitos que abordam a origem, a chegada, dos ``brancos''.}}}{286}
+\contentsline {section}{\emph {Jurakuéry, etavaekuéry, yvypokuéry\footnote {O~termo mais comumente empregado para designar os \emph {jurua} (brancos) é \emph {etavekuéry}. \emph {Etavekuéry} significa aqueles que são muitos, que hoje são maioria neste mundo. \emph {Yvypokuéry}, expressão mais utilizada em falas rituais, são os que foram gerados neste mundo em \emph {Yvy vai} e não possuem uma alma enviada de \emph {Nhanderu retã}. Essas designações são concebidas nos mitos que abordam a origem, a chegada, dos ``brancos''.}}}{286}
 \contentsline {section}{Comissão Guarani Yvyrupa (\textsc {\MakeTextLowercase {CGY}}), inovando na articulação das aldeias e na comunicação com as agências governamentais e a sociedade civil}{287}
 \contentsline {section}{Sem fronteiras}{288}
 \contentsline {section}{Referências}{289}
@@ -76,7 +76,7 @@
 \contentsline {chapter}{Articulações e transformações entre as parcialidades Guarani no sul do Brasil}{317}
 \contentsline {section}{Parcialidades Guarani}{317}
 \contentsline {section}{Chiripa, Paĩ, Tambeope}{321}
-\contentsline {section}{A configuração Mbya}{323}
+\contentsline {section}{A~configuração Mbya}{323}
 \contentsline {section}{Os Nhandéva contemporâneos}{324}
 \contentsline {section}{Referências}{328}
 \contentsline {section}{Comentário final}{332}
@@ -95,11 +95,11 @@
 \contentsline {section}{Nota Final}{368}
 \contentsline {section}{Referências}{369}
 \contentsline {section}{Comentário final}{372}
-\contentsline {chapter}{Os Mbya-Guarani de Misiones frente à \emph {Ley del Aborigen} nos anos 1980}{373}
+\contentsline {chapter}{Os Mbya"-Guarani de Misiones frente à \emph {Ley del Aborigen} nos anos 1980}{373}
 \contentsline {section}{O contexto}{373}
-\contentsline {section}{O debate}{374}
-\contentsline {section}{A disputa}{377}
-\contentsline {section}{A arena política}{379}
+\contentsline {section}{O~debate}{374}
+\contentsline {section}{A~disputa}{377}
+\contentsline {section}{A~arena política}{379}
 \contentsline {section}{Referências}{381}
 \contentsline {chapter}{Carta pública em defesa aos direitos do Povo Guarani}{383}
 \contentsfinish 
