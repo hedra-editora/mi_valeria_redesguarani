@@ -53,15 +53,17 @@
 \contentsline {chapter}{Filmar histórias e transformar olhares}{243}
 \contentsline {chapter}{Trilhando histórias em imagens}{249}
 \contentsline {chapter}{Formação e autonomia na produção de filmes}{253}
-\contentsline {chapter}{Linguagem e tecnologia}{257}
-\contentsline {chapter}{Entre enxadas e tratores: notas sobre um (des)encontro}{261}
-\contentsline {section}{Wai Wai, chefe wajãpi, em A Arca dos Zo’é}{261}
-\contentsline {section}{Fazer-se para fazer}{268}
-\contentsline {section}{Guaranizar o computador}{271}
-\contentsline {section}{Referências}{274}
+\contentsline {section}{\emph {Roexauka rive}~vs.~\emph {avyukuaa ta’anga rupi, romombe’u aguã nhandereko régua} (Apenas mostrar vs. falar através das imagens, para contar sobre nosso modo de ser).}{253}
+\contentsline {section}{Linguagem e tecnologia}{255}
+\contentsline {chapter}{Entre enxadas e tratores: notas sobre um (des)encontro}{259}
+\contentsline {section}{Fazer-se para fazer}{266}
+\contentsline {section}{Guaranizar o computador}{269}
+\contentsline {section}{Referências}{272}
 \contentsline {chapter}{Comunicação, convívio e permuta em \emph {Yvy vai}}{275}
 \contentsline {section}{Princípios e processos de comunicação entre as pessoas e acesso às divindades criadoras}{278}
 \contentsline {section}{Todas as coisas têm seu dono guardião}{284}
+\contentsline {section}{\emph {Jurakuéry, etavaekuéry, yvypokuéry\footnote {O termo mais comumente empregado para designar os \emph {jurua} (brancos) é \emph {etavekuéry}. \emph {Etavekuéry} significa aqueles que são muitos, que hoje são maioria neste mundo. \emph {Yvypokuéry}, expressão mais utilizada em falas rituais, são os que foram gerados neste mundo em \emph {Yvy vai} e não possuem uma alma enviada de \emph {Nhanderu retã}. Essas designações são concebidas nos mitos que abordam a origem, a chegada, dos ``brancos''.}}}{286}
+\contentsline {section}{Comissão Guarani Yvyrupa (\textsc {\MakeTextLowercase {CGY}}), inovando na articulação das aldeias e na comunicação com as agências governamentais e a sociedade civil}{287}
 \contentsline {section}{Sem fronteiras}{288}
 \contentsline {section}{Referências}{289}
 \contentsline {part}{Nas aldeias e entre aldeias}{291}
