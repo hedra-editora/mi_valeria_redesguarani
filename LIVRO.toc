@@ -1,7 +1,7 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Apresentação}{9}
-\contentsline {part}{Movimentos pela terra, andanças entre mundos}{23}
+\contentsline {part}{Movimentos pela terra, andanças entre \\mundos}{23}
 \contentsline {chapter}{\emph {Aguyjevete} pra quem luta!}{27}
 \contentsline {chapter}{Carta veiculada pela Comissão Yvyrupa por ocasião da tinta vermelha no Monumento às Bandeiras}{33}
 \contentsline {chapter}{A caminho do Sol}{37}
