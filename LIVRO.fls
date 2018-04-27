@@ -230,6 +230,8 @@ INPUT /home/felipe/texmf/tex/versos.sty
 INPUT /home/felipe/texmf/tex/versos.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
+INPUT /usr/share/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 INPUT /usr/share/texmf-dist/tex/latex/supertabular/supertabular.sty
 INPUT /usr/share/texmf-dist/tex/latex/paracol/paracol.sty
