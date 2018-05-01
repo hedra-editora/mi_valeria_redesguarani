@@ -291,6 +291,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib7.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
+INPUT ./img/Foto_capa.jpg
 INPUT GUARANIS.tex
 INPUT GUARANIS.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm

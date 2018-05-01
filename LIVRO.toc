@@ -45,8 +45,8 @@
 \contentsline {chapter}{Mundéu do mundo: Predação e troca nas relações com os brancos}{199}
 \contentsline {section}{De provedores e predadores}{202}
 \contentsline {section}{O~não se acostumar}{207}
-\contentsline {section}{Referências}{217}
-\contentsline {section}{Comentário}{220}
+\contentsline {section}{Referências}{216}
+\contentsline {section}{Comentário}{219}
 \contentsline {chapter}{O~desabrochar da palavra. Sobre o encontro dos Clastres com os Guarani}{221}
 \contentsline {section}{Referências}{236}
 \contentsline {part}{Tecnologias, circulação e transformação}{239}
@@ -69,7 +69,7 @@
 \contentsline {part}{Nas aldeias e entre aldeias}{291}
 \contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{295}
 \contentsline {section}{Antecedentes}{298}
-\contentsline {section}{Famílias kaiowá e guarani reacomodadas em periferias de cidades}{307}
+\contentsline {section}{Famílias kaiowá e guarani reacomodadas em periferias de cidades}{308}
 \contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{312}
 \contentsline {section}{Referências}{314}
 \contentsline {section}{Comentário final}{315}
