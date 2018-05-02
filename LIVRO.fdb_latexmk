@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1525206424 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1525206427
-  "LIVRO.xdv" 1525206424 7322092 4d0aa192c85d48d699e31fd4bbbdeb0a "xelatex"
+["xdvipdfmx"] 1525220418 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1525220420
+  "LIVRO.xdv" 1525220417 7322740 ff28f57e73a40cf05289d131dc52b8aa "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1525206417 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1525206427
+["xelatex"] 1525220410 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1525220420
   "/home/felipe/texmf/tex/PUBLICIDADE.tex" 1524200730 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/felipe/texmf/tex/aparatos.sty" 1524200730 909 136995c661119a9437b5451e77fe6935 ""
   "/home/felipe/texmf/tex/commands.sty" 1524200730 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -154,15 +154,15 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1520157229 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1524231390 4066741 58d1450fbed2faddf8a08b5c6b47ec48 ""
-  "EPIGRAFE.tex" 1525206398 421 08a54d74c9b5f701a70dbc3f0131cfb2 ""
-  "GUARANIS.tex" 1525205382 712139 22271889b9166ee193a0d74ffeb43e02 ""
-  "INPUTS.aux" 1525206424 14999 64982765f34f4c2b0ab2fae0d25c17bb ""
+  "EPIGRAFE.tex" 1525212140 508 9d93ab453b8033e5c4930f1613edc804 ""
+  "GUARANIS.tex" 1525220401 712865 4fa32f3f311e97e6404b5e088dec3b53 ""
+  "INPUTS.aux" 1525220417 15172 1ac96616635a6751d90e0fc9f0a46637 ""
   "INPUTS.tex" 1524202467 33 0bfc4233f89e5b7f77ad1ae13bc985ef ""
-  "LIVRO.aux" 1525206424 359 892e123d5c8bf2726610c5ef9f3d9a46 ""
+  "LIVRO.aux" 1525220417 359 892e123d5c8bf2726610c5ef9f3d9a46 ""
   "LIVRO.tex" 1524867385 1043 ad1583462fe5843c7d81c45b1fa7ca09 ""
-  "LIVRO.toc" 1525206424 7437 c061ab63a448add5d0702069be404712 ""
+  "LIVRO.toc" 1525220417 7437 2b78cd26f363b1697dd28211f5f29738 ""
   "PRETAS.tex" 1524866117 1178 6281eec78f7fe9440bcc7031bc0d45af ""
-  "PUBLICIDADE.aux" 1525206424 1718 b2aa7e7708204ba5afbe894111b2d419 ""
+  "PUBLICIDADE.aux" 1525220417 1718 5e9a799e37acd394d553235d258c8803 ""
   "fichatecnica.sty" 1524865841 2349 97ae265fb1de87c927fe7ae7bb5ff02f ""
   "gitrevisioninfo.sty" 1524202468 0 d41d8cd98f00b204e9800998ecf8427e ""
   "hedraextra.sty" 1524865226 6382 2ca9ed518a446eac3ab8360ce69f26c2 ""
@@ -181,9 +181,9 @@
   "img/mapita.jpg" 1524866960 237377 8a361c113b026d77bc10242555fa5f5d ""
   "tabelas.sty" 1524202468 750 231470c8807cdc90f2422476c27dfc8e ""
   (generated)
-  "INPUTS.aux"
-  "PUBLICIDADE.aux"
-  "LIVRO.xdv"
-  "LIVRO.toc"
   "LIVRO.log"
+  "LIVRO.toc"
   "LIVRO.aux"
+  "INPUTS.aux"
+  "LIVRO.xdv"
+  "PUBLICIDADE.aux"
