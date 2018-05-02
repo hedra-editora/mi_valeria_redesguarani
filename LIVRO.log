@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.4.20)  1 MAY 2018 21:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.4.20)  1 MAY 2018 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1580,7 +1580,7 @@ saudade fazendo
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (7.62288pt too wide) in paragraph at lines 70--70
+Overfull \hbox (7.62288pt too wide) in paragraph at lines 69--69
 []|\TU/LinuxLibertineO(0)/m/n/10.95 Mobilidade, modalidades de assentamentos e 
 formas organizacionais 
  []
@@ -2063,7 +2063,9 @@ Overfull \vbox (8.48398pt too high) has occurred while \output is active []
 Overfull \vbox (19.41231pt too high) has occurred while \output is active []
 
 
-[196] [197] [198] [199
+[196] [197] [198
+
+] [199
 
 ]
 Overfull \vbox (1.48398pt too high) has occurred while \output is active []
@@ -2106,20 +2108,22 @@ Overfull \vbox (3.48404pt too high) has occurred while \output is active []
 
 
 [214] [215] [216] [217] [218]
-Overfull \hbox (7.80936pt too wide) in paragraph at lines 6901--6902
+Overfull \hbox (7.80936pt too wide) in paragraph at lines 6909--6910
 []\TU/LinuxLibertineO(0)/m/sc/12 vilaça\TU/LinuxLibertineO(0)/m/n/12 , Aparecid
 a. “Conversão, predação e perspectiva”. \TU/LinuxLibertineO(0)/m/it/12 Mana \TU
 /LinuxLibertineO(0)/m/n/12 14(1),
  []
 
-[219] [220]
+[219] [220
+
+]
 Overfull \vbox (7.12389pt too high) has occurred while \output is active []
 
 
 [221
 
 ] [222]
-Underfull \hbox (badness 1259) in paragraph at lines 7001--7014
+Underfull \hbox (badness 1259) in paragraph at lines 7017--7030
 \TU/LinuxLibertineO(0)/m/n/12 guarani ao princípio de identidade, e que vemos d
 esembocar
  []
@@ -2157,15 +2161,21 @@ Overfull \vbox (7.57585pt too high) has occurred while \output is active []
 Overfull \vbox (7.62386pt too high) has occurred while \output is active []
 
 
-[249] [250] [251] [252
+[249
+
+] [250] [251] [252
 
 ]
 Overfull \vbox (5.4507pt too high) has occurred while \output is active []
 
 
-[253] [254] [255] [256] [257] [258
+[253
 
-] [259] [260] [261] [262] [263]
+] [254] [255] [256] [257] [258
+
+] [259
+
+] [260] [261] [262] [263]
 Overfull \vbox (16.03201pt too high) has occurred while \output is active []
 
 
@@ -2174,7 +2184,7 @@ Overfull \vbox (7.40697pt too high) has occurred while \output is active []
 
 
 [266]
-Overfull \hbox (4.456pt too wide) in paragraph at lines 8278--8284
+Overfull \hbox (4.456pt too wide) in paragraph at lines 8332--8338
 []\TU/LinuxLibertineO(0)/m/n/12 Os membros do coletivo que compõem a Ascuri aut
 odenominam-
  []
@@ -2187,7 +2197,9 @@ Overfull \vbox (17.98398pt too high) has occurred while \output is active []
 Overfull \vbox (10.37604pt too high) has occurred while \output is active []
 
 
-[270] [271] [272] [273] [274
+[270] [271] [272] [273
+
+] [274
 
 ]
 Overfull \vbox (3.12389pt too high) has occurred while \output is active []
@@ -2223,7 +2235,7 @@ Overfull \vbox (13.907pt too high) has occurred while \output is active []
 
 [284]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 8901.
+(Font)              <14.4> on input line 8967.
  [285] [286] [287]
 Overfull \vbox (15.05896pt too high) has occurred while \output is active []
 
@@ -2235,7 +2247,7 @@ File: ./img/GUARANIS-img6.jpg Graphic file (type bmp)
 <./img/GUARANIS-img6.jpg>
 
 
-LaTeX Warning: Float too large for page by 21.1257pt on input line 9058.
+LaTeX Warning: Float too large for page by 21.1257pt on input line 9124.
 
 [293] [294
 
@@ -2259,12 +2271,14 @@ Overfull \vbox (20.98398pt too high) has occurred while \output is active []
 
 
 [311] [312]
-Underfull \hbox (badness 1629) in paragraph at lines 9713--9733
+Underfull \hbox (badness 1629) in paragraph at lines 9779--9799
 []\TU/LinuxLibertineO(0)/m/n/12 A abordagem comparativa dessas modalidades de a
 ssenta-
  []
 
-[313] [314] [315] [316]
+[313] [314] [315] [316
+
+]
 File: ./img/GUARANIS-img7.jpg Graphic file (type bmp)
 <./img/GUARANIS-img7.jpg>
 
@@ -2280,138 +2294,145 @@ Overfull \vbox (12.60696pt too high) has occurred while \output is active []
 [324] [325] [326]
 File: ./img/GUARANIS-img8.jpg Graphic file (type bmp)
 <./img/GUARANIS-img8.jpg>
- [327] [328] [329] [330] [331] [332]
-Underfull \hbox (badness 2213) in paragraph at lines 10393--10393
+ [327] [328] [329] [330] [331] [332] [333
+
+] [334
+
+]
+Underfull \hbox (badness 2213) in paragraph at lines 10475--10475
 []\TU/LinuxLibertineO(0)/m/n/10 4. []Segundo o site da Comissão Pró-índio de Sã
 o Paulo, as \TU/LinuxLibertineO(0)/m/sc/10 ti \TU/LinuxLibertineO(0)/m/n/10 hab
 ita-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 10393--10393
+Underfull \hbox (badness 2384) in paragraph at lines 10475--10475
 \TU/LinuxLibertineO(0)/m/n/10 há co-residência entre os Tupi Guarani, Guarani M
 bya e Terena. Fonte:
  []
 
-[333
-
-] [334] [335]
+[335] [336] [337]
 Overfull \vbox (15.21368pt too high) has occurred while \output is active []
 
 
-[336] [337]
+[338] [339]
 Overfull \vbox (8.63599pt too high) has occurred while \output is active []
 
 
-[338]
-Underfull \hbox (badness 3354) in paragraph at lines 10621--10633
+[340]
+Underfull \hbox (badness 3354) in paragraph at lines 10703--10715
 []\TU/LinuxLibertineO(0)/m/n/12 Em Piaçaguera, \TU/LinuxLibertineO(0)/m/sc/12 t
 i \TU/LinuxLibertineO(0)/m/n/12 homologada no ano de 2011 (\TU/LinuxLibertineO(
 0)/m/sc/12 funai\TU/LinuxLibertineO(0)/m/n/12 :
  []
 
-[339] [340]
+[341] [342]
 Overfull \vbox (10.57605pt too high) has occurred while \output is active []
 
 
-[341]
+[343]
 Overfull \vbox (20.20694pt too high) has occurred while \output is active []
 
 
-[342]
+[344]
 Overfull \vbox (18.03204pt too high) has occurred while \output is active []
 
 
-[343] [344] [345]
+[345] [346] [347]
 Overfull \vbox (0.17896pt too high) has occurred while \output is active []
 
 
-[346] [347] [348] [349] [350
+[348] [349] [350] [351] [352
 
 ]
 Overfull \vbox (7.65096pt too high) has occurred while \output is active []
 
 
-[351]
+[353
+
+]
 Overfull \vbox (14.39868pt too high) has occurred while \output is active []
 
 
-[352]
+[354]
 Overfull \vbox (10.21495pt too high) has occurred while \output is active []
 
 
-[353]
+[355]
 Overfull \vbox (15.53201pt too high) has occurred while \output is active []
 
 
-[354] [355]
+[356] [357]
 Overfull \vbox (1.48398pt too high) has occurred while \output is active []
 
 
-[356]
+[358]
 File: ./img/GUARANIS-img10.png Graphic file (type bmp)
 <./img/GUARANIS-img10.png>
 
 Overfull \vbox (15.21922pt too high) has occurred while \output is active []
 
 
-[357]
+[359]
 File: ./img/GUARANIS-img11.jpg Graphic file (type bmp)
 <./img/GUARANIS-img11.jpg>
 
 Overfull \vbox (21.03198pt too high) has occurred while \output is active []
 
 
-[358]
+[360]
 Overfull \vbox (1.29767pt too high) has occurred while \output is active []
 
 
-[359]
+[361]
 File: ./img/GUARANIS-img12.png Graphic file (type bmp)
 <./img/GUARANIS-img12.png>
- [360] [361] [362]
+ [362] [363] [364]
 Overfull \vbox (11.03198pt too high) has occurred while \output is active []
 
 
-[363] [364] [365] [366] [367] [368] [369] [370] [371] [372] [373
+[365] [366] [367] [368] [369] [370] [371] [372] [373] [374] [375
+
+] [376
 
 ]
+[377]
 Overfull \vbox (19.607pt too high) has occurred while \output is active []
 
 
-[374] [375] [376] [377] [378] [379] [380] [381] [382] [383
+[378] [379] [380] [381] [382] [383] [384] [385] [386] [387
 
-])) [384]
+])) [388]
 
 AED: lastpage setting LastPage
-[385
+[389
 
-] [386
+] [390
 
 ]
 \openout2 = `PUBLICIDADE.aux'.
 
- (/home/felipe/texmf/tex/PUBLICIDADE.tex [387
+ (/home/felipe/texmf/tex/PUBLICIDADE.tex [391
 
-] [388]
+] [392]
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[389]
+[393]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [390] [391] [392] [393]) [394
+ [394] [395] [396] [397]) [398
 
-] [395] [396]
+] [399] [400]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- [397
+ [401
 
 ] (./LIVRO.aux
 (./INPUTS.aux) (./PUBLICIDADE.aux))
@@ -2429,4 +2450,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10416b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (397 pages, 7322740 bytes).
+Output written on LIVRO.xdv (401 pages, 7327672 bytes).
