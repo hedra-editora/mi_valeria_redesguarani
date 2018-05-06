@@ -66,35 +66,35 @@
 \contentsline {section}{Sem fronteiras}{280}
 \contentsline {section}{Referências}{281}
 \contentsline {part}{Nas aldeias e entre aldeias}{283}
-\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{287}
-\contentsline {section}{Antecedentes}{290}
-\contentsline {section}{Famílias kaiowá e guarani reacomodadas em periferias de cidades}{300}
-\contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{304}
-\contentsline {section}{Referências}{306}
-\contentsline {chapter}{Articulações e transformações entre as parcialidades Guarani no sul do Brasil}{309}
-\contentsline {section}{Parcialidades Guarani}{309}
-\contentsline {section}{Chiripa, Paĩ, Tambeope}{313}
-\contentsline {section}{A~configuração Mbya}{315}
-\contentsline {section}{Os Nhandéva contemporâneos}{316}
-\contentsline {section}{Referências}{320}
-\contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{327}
-\contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{330}
-\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{333}
-\contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{336}
-\contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{340}
-\contentsline {section}{Referências}{341}
-\contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{345}
-\contentsline {section}{Introdução}{345}
-\contentsline {section}{Partidas e chegadas}{347}
-\contentsline {section}{Potencialmente afins}{356}
-\contentsline {section}{Novos encontros, novos contextos}{359}
-\contentsline {section}{Nota Final}{362}
-\contentsline {section}{Referências}{363}
-\contentsline {chapter}{Os Mbya"-Guarani de Misiones frente à \emph {Ley del Aborigen} nos anos 1980}{369}
-\contentsline {section}{O contexto}{369}
-\contentsline {section}{O~debate}{370}
-\contentsline {section}{A~disputa}{373}
-\contentsline {section}{A~arena política}{375}
-\contentsline {section}{Referências}{377}
-\contentsline {chapter}{Carta pública em defesa aos direitos do Povo Guarani}{379}
+\contentsline {chapter}{Mobilidade, modalidades de assentamentos e formas organizacionais entre os Kaiowá e Guarani em \textsc {\MakeTextLowercase {MS}}}{285}
+\contentsline {section}{Antecedentes}{288}
+\contentsline {section}{Famílias kaiowá e guarani reacomodadas em periferias de cidades}{298}
+\contentsline {section}{Apropriação de espaços e produção de formas de vida comunitária}{302}
+\contentsline {section}{Referências}{304}
+\contentsline {chapter}{Articulações e transformações entre as parcialidades Guarani no sul do Brasil}{307}
+\contentsline {section}{Parcialidades Guarani}{307}
+\contentsline {section}{Chiripa, Paĩ, Tambeope}{311}
+\contentsline {section}{A~configuração Mbya}{313}
+\contentsline {section}{Os Nhandéva contemporâneos}{314}
+\contentsline {section}{Referências}{318}
+\contentsline {chapter}{Um nome que faz diferença: reflexões com famílias tupi guarani}{325}
+\contentsline {section}{Aldeia Ywy Pyhaú: da luta pela terra ao fortalecimento da cultura}{328}
+\contentsline {section}{Iniciativas de valorização cultural na \textsc {\MakeTextLowercase {TI}} Piaçaguera}{331}
+\contentsline {section}{Entre outros: agenciamentos das relações na aldeia Ywyty Guaçu}{334}
+\contentsline {section}{Ser Tupi Guarani é fugir de essencialismos}{338}
+\contentsline {section}{Referências}{339}
+\contentsline {chapter}{Os Mbya desceram o Araguaia: parentesco e dispersão}{343}
+\contentsline {section}{Introdução}{343}
+\contentsline {section}{Partidas e chegadas}{345}
+\contentsline {section}{Potencialmente afins}{354}
+\contentsline {section}{Novos encontros, novos contextos}{357}
+\contentsline {section}{Nota Final}{360}
+\contentsline {section}{Referências}{361}
+\contentsline {chapter}{Os Mbya"-Guarani de Misiones frente à \emph {Ley del Aborigen} nos anos 1980}{367}
+\contentsline {section}{O contexto}{367}
+\contentsline {section}{O~debate}{368}
+\contentsline {section}{A~disputa}{371}
+\contentsline {section}{A~arena política}{373}
+\contentsline {section}{Referências}{375}
+\contentsline {chapter}{Carta pública em defesa aos direitos do Povo Guarani}{377}
 \contentsfinish 

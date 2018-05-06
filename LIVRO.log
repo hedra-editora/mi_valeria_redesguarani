@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.4.20)  4 MAY 2018 19:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.4.20)  6 MAY 2018 12:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2245,38 +2245,34 @@ Overfull \vbox (15.05896pt too high) has occurred while \output is active []
 ]
 File: ./img/GUARANIS-img6.jpg Graphic file (type bmp)
 <./img/GUARANIS-img6.jpg>
-
-Overfull \vbox (32.1257pt too high) has occurred while \output is active []
-
-
-[284] [285] [286
-
-]
+ [284]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [287]
+ [285
+
+]
 Overfull \vbox (8.53198pt too high) has occurred while \output is active []
 
 
-[288]
+[286]
 Overfull \vbox (11.03198pt too high) has occurred while \output is active []
 
 
-[289] [290] [291] [292] [293] [294] [295]
+[287] [288] [289] [290] [291] [292] [293]
 Overfull \vbox (8.48398pt too high) has occurred while \output is active []
 
 
-[296] [297] [298] [299] [300] [301] [302]
+[294] [295] [296] [297] [298] [299] [300]
 Overfull \vbox (20.98398pt too high) has occurred while \output is active []
 
 
-[303] [304]
+[301] [302]
 Underfull \hbox (badness 1629) in paragraph at lines 9795--9815
 []\TU/LinuxLibertineO(0)/m/n/12 A abordagem comparativa dessas modalidades de a
 ssenta-
  []
 
-[305] [306] [307] [308
+[303] [304] [305] [306
 
 ]
 File: ./img/GUARANIS-img7.jpg Graphic file (type bmp)
@@ -2285,18 +2281,18 @@ File: ./img/GUARANIS-img7.jpg Graphic file (type bmp)
 Overfull \vbox (19.15086pt too high) has occurred while \output is active []
 
 
-[309
+[307
 
-] [310] [311] [312] [313] [314] [315]
+] [308] [309] [310] [311] [312] [313]
 Overfull \vbox (12.60696pt too high) has occurred while \output is active []
 
 
-[316] [317] [318]
+[314] [315] [316]
 File: ./img/GUARANIS-img8.jpg Graphic file (type bmp)
 <./img/GUARANIS-img8.jpg>
- [319] [320] [321] [322] [323] [324] [325
+ [317] [318] [319] [320] [321] [322] [323
 
-] [326
+] [324
 
 ]
 Underfull \hbox (badness 2213) in paragraph at lines 10491--10491
@@ -2311,128 +2307,128 @@ Underfull \hbox (badness 2384) in paragraph at lines 10491--10491
 bya e Terena. Fonte:
  []
 
-[327] [328] [329]
+[325] [326] [327]
 Overfull \vbox (15.21368pt too high) has occurred while \output is active []
 
 
-[330] [331]
+[328] [329]
 Overfull \vbox (8.63599pt too high) has occurred while \output is active []
 
 
-[332]
+[330]
 Underfull \hbox (badness 3354) in paragraph at lines 10719--10731
 []\TU/LinuxLibertineO(0)/m/n/12 Em Piaçaguera, \TU/LinuxLibertineO(0)/m/sc/12 t
 i \TU/LinuxLibertineO(0)/m/n/12 homologada no ano de 2011 (\TU/LinuxLibertineO(
 0)/m/sc/12 funai\TU/LinuxLibertineO(0)/m/n/12 :
  []
 
-[333] [334]
+[331] [332]
 Overfull \vbox (10.57605pt too high) has occurred while \output is active []
 
 
-[335]
+[333]
 Overfull \vbox (20.20694pt too high) has occurred while \output is active []
 
 
-[336]
+[334]
 Overfull \vbox (18.03204pt too high) has occurred while \output is active []
 
 
-[337] [338] [339]
+[335] [336] [337]
 Overfull \vbox (0.17896pt too high) has occurred while \output is active []
 
 
-[340] [341] [342] [343] [344
+[338] [339] [340] [341] [342
 
 ]
 Overfull \vbox (7.65096pt too high) has occurred while \output is active []
 
 
-[345
+[343
 
 ]
 Overfull \vbox (14.39868pt too high) has occurred while \output is active []
 
 
-[346]
+[344]
 Overfull \vbox (10.21495pt too high) has occurred while \output is active []
 
 
-[347]
+[345]
 Overfull \vbox (15.53201pt too high) has occurred while \output is active []
 
 
-[348] [349]
+[346] [347]
 Overfull \vbox (1.48398pt too high) has occurred while \output is active []
 
 
-[350]
+[348]
 File: ./img/GUARANIS-img10.png Graphic file (type bmp)
 <./img/GUARANIS-img10.png>
 
 Overfull \vbox (15.21922pt too high) has occurred while \output is active []
 
 
-[351]
+[349]
 File: ./img/GUARANIS-img11.jpg Graphic file (type bmp)
 <./img/GUARANIS-img11.jpg>
 
 Overfull \vbox (21.03198pt too high) has occurred while \output is active []
 
 
-[352]
+[350]
 Overfull \vbox (1.29767pt too high) has occurred while \output is active []
 
 
-[353]
+[351]
 File: ./img/GUARANIS-img12.png Graphic file (type bmp)
 <./img/GUARANIS-img12.png>
- [354] [355] [356]
+ [352] [353] [354]
 Overfull \vbox (11.03198pt too high) has occurred while \output is active []
 
 
-[357] [358] [359] [360] [361] [362] [363] [364] [365] [366] [367
+[355] [356] [357] [358] [359] [360] [361] [362] [363] [364] [365
 
-] [368
+] [366
 
 ]
-[369]
+[367]
 Overfull \vbox (19.607pt too high) has occurred while \output is active []
 
 
-[370] [371] [372] [373] [374] [375] [376] [377] [378] [379
+[368] [369] [370] [371] [372] [373] [374] [375] [376] [377
 
-])) [380]
+])) [378]
 
 AED: lastpage setting LastPage
-[381
+[379
 
-] [382
+] [380
 
 ]
 \openout2 = `PUBLICIDADE.aux'.
 
- (/home/felipe/texmf/tex/PUBLICIDADE.tex [383
+ (/home/felipe/texmf/tex/PUBLICIDADE.tex [381
 
-] [384]
+] [382]
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[385]
+[383]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [386] [387] [388] [389]) [390
+ [384] [385] [386] [387]) [388
 
-] [391] [392]
+] [389] [390]
 \tf@toc=\write5
 \openout5 = `LIVRO.toc'.
 
- [393
+ [391
 
 ] (./LIVRO.aux
 (./INPUTS.aux) (./PUBLICIDADE.aux))
@@ -2450,4 +2446,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  55i,12n,87p,10416b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (393 pages, 7316184 bytes).
+Output written on LIVRO.xdv (391 pages, 7313140 bytes).
