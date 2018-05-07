@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1525619333 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1525619336
-  "LIVRO.xdv" 1525619333 7313140 c8a3e263bbe1f677c09ade7ffd39c3ba "xelatex"
+["xdvipdfmx"] 1525708750 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1525708753
+  "LIVRO.xdv" 1525708750 7313080 c30bc1adc6b0219d399682755db4ea9a "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1525619326 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1525619335
+["xelatex"] 1525708738 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1525708753
   "/home/felipe/texmf/tex/PUBLICIDADE.tex" 1524200730 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/felipe/texmf/tex/aparatos.sty" 1524200730 909 136995c661119a9437b5451e77fe6935 ""
   "/home/felipe/texmf/tex/commands.sty" 1524200730 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -155,14 +155,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1520157258 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1524231390 4066741 58d1450fbed2faddf8a08b5c6b47ec48 ""
   "EPIGRAFE.tex" 1525212140 508 9d93ab453b8033e5c4930f1613edc804 ""
-  "GUARANIS.tex" 1525619323 714549 26bab511038581134ebe5f0b6da1f0b5 ""
-  "INPUTS.aux" 1525619333 14846 d635b65cbb1795668213951e0e6eccca ""
+  "GUARANIS.tex" 1525708730 714609 768d4502aeb13984d9fe78e51ac6476c ""
+  "INPUTS.aux" 1525708749 14846 d635b65cbb1795668213951e0e6eccca ""
   "INPUTS.tex" 1524202467 33 0bfc4233f89e5b7f77ad1ae13bc985ef ""
-  "LIVRO.aux" 1525619333 359 ce35e2ff67da02716168445626cad756 ""
+  "LIVRO.aux" 1525708750 359 ce35e2ff67da02716168445626cad756 ""
   "LIVRO.tex" 1525467238 1067 9b4b6c9ce16a1f4a5a2614e16347182c ""
-  "LIVRO.toc" 1525619333 7201 1abba199430fa97398dafbbfbf5d0b6e ""
+  "LIVRO.toc" 1525708750 7201 1abba199430fa97398dafbbfbf5d0b6e ""
   "PRETAS.tex" 1524866117 1178 6281eec78f7fe9440bcc7031bc0d45af ""
-  "PUBLICIDADE.aux" 1525619333 1718 810eec6097ac268da732d2c17ab29d4f ""
+  "PUBLICIDADE.aux" 1525708750 1718 810eec6097ac268da732d2c17ab29d4f ""
   "fichatecnica.sty" 1524865841 2349 97ae265fb1de87c927fe7ae7bb5ff02f ""
   "gitrevisioninfo.sty" 1524202468 0 d41d8cd98f00b204e9800998ecf8427e ""
   "hedraextra.sty" 1524865226 6382 2ca9ed518a446eac3ab8360ce69f26c2 ""
@@ -181,9 +181,9 @@
   "img/mapita.jpg" 1524866960 237377 8a361c113b026d77bc10242555fa5f5d ""
   "tabelas.sty" 1524202468 750 231470c8807cdc90f2422476c27dfc8e ""
   (generated)
+  "LIVRO.toc"
+  "LIVRO.log"
+  "INPUTS.aux"
+  "LIVRO.xdv"
   "PUBLICIDADE.aux"
   "LIVRO.aux"
-  "LIVRO.log"
-  "LIVRO.toc"
-  "LIVRO.xdv"
-  "INPUTS.aux"
