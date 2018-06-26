@@ -19,6 +19,11 @@
 \setlength{\columnseprule}{0.3pt}
 \def\columnseprulecolor{\color{black}}
 
+\makeatletter
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+\makeatother
 
 \makeatletter
 \newenvironment{Parskip}{%
