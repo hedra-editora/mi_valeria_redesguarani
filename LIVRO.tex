@@ -1,62 +1,98 @@
-%!TEX program = 
-\documentclass[semcabeco,compontinhos,showtrims,12pt,conselho,spreadimages]{memoir}
+\documentclass[showtrims,		% Mostra as marcas de corte em cruz
+			   %trimframe,		% Mostra as marcas de corte em linha, para conferência
+			   9pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
+			   ]{memoir}
+\usepackage[brazilian,
+			% english,
+			% italian,
+			% ngerman,
+			% french,
+			% russian,
+			% polutonikogreek
+			]{babel}
+\usepackage{anyfontsize}			    % para tamanhos de fontes maiores que \Huge 
+\usepackage{relsize}					% para aumentar ou diminuir fonte por pontos. Ex. \smaller[1]
+\usepackage{fontspec}					% para rodar fontes do sistema
+\usepackage[switch]{lineno} 			% para numerar linhas
+\usepackage{lipsum}						% para colocar textos lipsum
+\usepackage{alltt}						% para colocar espaços duplos. Ex: verso livre
+\usepackage{graphicx}					% para colocar imagens
+\usepackage{float}						% para flutuar imagens e tabelas 		
+\usepackage{lettrine}					% para capsulares
+\usepackage{comment}					% para comentar o código em bloco \begin{comment}...
+\usepackage{adforn}						% para adornos & glyphs
+\usepackage{xcolor}					 	% para texto colorido
+\usepackage{array}
+\usepackage[babel]{microtype}			% para ajustes finos na mancha
+\usepackage{enumerate,enumitem}			% para tipos diferentes de enumeração/formatação ver `edlab-extra.sty`
+\usepackage{url}					% para citar sites \url
+\usepackage{marginnote}					% para notas laterais
+\usepackage{titlesec}					% para produzir os distanciamentos entre pontos no \dotfill
+\usepackage{textpos}
 
-\usepackage{commands}
-\usepackage[vieira]{hedra} %% << %%%%%%%%%%%%%%%%
-\usepackage{gitrevisioninfo}
+%\usepackage{makeidx} 					% para índice remissivo
+
+\usepackage{edlab-penalties}
+\usepackage{edlab-git}
+\usepackage{edlab-toc}					% define sumário
+\usepackage{edlab-extra}				% define epígrafe, quote
+\usepackage[largepost]{edlab-margins}
+\usepackage[%semcabeco, 				% para remover cabeço, sobe mancha e mantem estilos
+			]{edlab-sections}			% define pagestyle (cabeço, rodapé e seções)
+\usepackage[%
+			% notasemlinha 			
+			% notalinhalonga
+			chicagofootnotes			% para notas com número e ponto cf. man. de Chicago
+			]{edlab-footnotes}
+
+%Da edição antiga
 \usepackage{changepage}
 \usepackage{placeins}
 \usepackage{float}
 \usepackage{floatpag}
 \usepackage{rotating}
-%\usepackage{afterpage}
 \usepackage{supertabular}
 \usepackage{paracol}
 \setlength{\columnsep}{0.8cm}
-
-\usepackage{color}
- 
-\usepackage{comment}
- 
 \setlength{\columnseprule}{0.3pt}
+\usepackage{color}
 \def\columnseprulecolor{\color{black}}
 
-\makeatletter
-\def\@xfootnote[#1]{%
-  \protected@xdef\@thefnmark{#1}%
-  \@footnotemark\@footnotetext}
-\makeatother
 
-\makeatletter
-\newenvironment{Parskip}{%
-   \par
-   \parskip=0.3\baselineskip \advance\parskip by 0pt plus 2pt
-   \parindent=\z@
-   \def\@listI{\leftmargin\leftmargini
-      \topsep\z@ \parsep\parskip \itemsep\z@}
-   \let\@listi\@listI
-   \@listi
-   \def\@listii{\leftmargin\leftmarginii
-      \labelwidth\leftmarginii\advance\labelwidth-\labelsep
-      \topsep\z@ \parsep\parskip \itemsep\z@}
-   \def\@listiii{\leftmargin\leftmarginiii
-       \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
-       \topsep\z@ \parsep\parskip \itemsep\z@}
-   \partopsep=\z@
-}{\par}
-\makeatother
+\usepackage{fancyhdr}
+\usepackage{imakeidx} 
+\makeindex[program=xindy, options=-C utf8 -L portuguese]
+% Sugestão para índice de mitos e benzimentos: http://texblog.org/2008/07/13/define-your-own-list-of/
 
-\newenvironment{absolutelynopagebreak}
-  {\par\nobreak\vfil\penalty0\vfilneg
-   \vtop\bgroup}
-  {\par\xdef\tpd{\the\prevdepth}\egroup
-   \prevdepth=\tpd}
+% Medidas (ver: memoir p.11 fig.2.3)
+\parindent=3ex			% Tamanho da indentação
+\parskip=0pt			% Entre parágrafos
+\marginparsep=1em		% Entre mancha e nota lateral 
+\marginparwidth=4em		% Tamanho da caixa de texto da nota laterial
 
-%\restylefloat{figure}
-\newcommand{\forceindent}{\leavevmode{\parindent=1.5em\indent}}
+% Fontes
+\newfontfamily\formular{Formular}
+\newfontfamily\formularlight{Formular Light}
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
+
+
+% Estilos
+\makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
+\makeevenhead{baruch}{}{\scshape\MakeLowercase{\parttitle}}{}
+\makeevenfoot{baruch}{}{\footnotesize\thepage}{}
+\makeoddfoot{baruch}{}{\footnotesize\thepage}{}
+\pagestyle{baruch}		
+\headstyles{baruch}
+
+% Testes
+
 
 \begin{document}
 
+
+%\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
 
+
+\checkandfixthelayout
 \end{document}

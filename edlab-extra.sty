@@ -1,0 +1,144 @@
+% edlab-extra.sty
+
+% Páginas brancas conforme par ou impar
+\newcommand{\blankpage}{\newpage\hbox{~}\thispagestyle{empty}\newpage}
+\newcommand{\blankAteven}{\ifodd\thepage\relax\else\blankpage\fi}
+\newcommand{\blankAtodd}{\ifodd\thepage\blankpage\else\relax\fi}
+
+
+% url.sty
+% You can switch the style of printing using “\urlstyle{xx}”, where “xx” can be
+% any defined style. The pre-defined styles are “tt”, “rm”, “sf” and “same” which all
+% allow the same linebreaks but use different fonts — the first three select a specific
+% font and the “same” style uses the current text font. You can define your own
+% styles with different fonts and/or line-breaking by following the explanations
+
+\urlstyle{tt} % {same} mesma fonte; {sf} sem serifa 
+
+% Epigraph (memoir)
+\epigraphfontsize{\footnotesize}			% tamanho da fonte
+\setlength{\epigraphrule}{0pt}				% tira a linha
+% \setlength{\epigraphwidth}{.6\textwidth}	% aumenta o tamanho da epígra
+% \epigraphtextposition{flushright}			
+% \epigraphtextposition{flushleft}
+% \epigraphsourceposition{flushright} 
+
+% Enumerate (enumitem.sty)
+    % • Vertical spacing:
+    %     – topsep
+    %     – partopsep
+    %     – parsep
+    %     – itemsep
+    % • Horizontal spacing:
+    %     – leftmargin
+    %     – rightmargin
+    %     – listparindent
+    %     – labelwidth
+    %     – labelsep
+    %     – itemindent
+
+\setlist[itemize,1]{label={$\triangleright$},leftmargin=5pt,itemsep=0pt,parsep=0pt}
+
+% Quote (latex.ldt)
+\renewenvironment{quote}{%
+  \begin{list}{}{%
+    \setlength{\listparindent}{3ex}%
+    \setlength{\labelsep}{0mm}%
+    \setlength{\leftmargin}{0mm}%
+    \setlength{\rightmargin}{0mm}%
+    \setlength{\topsep}{1ex}
+    \setlength{\partopsep}{0mm}
+    \setlength{\parskip}{0mm}
+    \setlength{\lineskip}{0mm}
+    \setlength{\parsep}{0ex}%
+    }%
+    \small%
+    \item%
+}{%
+  \end{list}%
+}
+
+
+% bibliohedra 
+\RequirePackage{ifthen}
+\newcommand{\tit}[1]{\item[\MakeTextLowercase{\textsc{#1}}]}
+\newcommand{\titidem}{\item[\line(1,0){25}]}
+
+\newenvironment{bibliohedra}[1][bibliografia]{%
+    \frenchspacing\footnotesize
+    \ifthenelse{\equal{#1}{}}%
+        {\relax}{\section*{\MakeTextLowercase{#1}}\vspace{2ex}}
+        \begin{list}{}{
+                \setlength\leftmargin{4mm}  % identação do texto principal em
+                                % relação à margem da 'página'
+                \setlength\rightmargin{0mm}
+                \setlength\labelwidth{4mm}  % tamanho "esperado" da caixa de rótulo
+                                % define também o recuo usado
+        %
+        %       \setlength\listparindent{3mm}   % tamanho da identação dos parágrafos
+                                % dentro do ítem
+        %
+                \setlength\labelsep{0mm}    % espaço entre rótulo e descrição
+                \setlength\parsep{0mm}      % espaço entre parágrafos de um item
+                \setlength\itemsep{1mm}     % espaço entre items
+                \setlength\lineskip{0mm}    % espaçamento entre linhas
+        }
+
+    }%
+    {\end{list}}
+
+
+
+\newcommand{\mito}[2]{{\centering\textsc{mito\,#1 (M#1): #2}\label{#1}\medskip\par}}
+\newcommand{\benzimento}[2]{{\centering\textsc{benzimento\,#1 (B#1): #2}\label{#1}\medskip\par}}
+\newcommand{\sonho}[2]{{\centering\textsc{sonho\,#1 (S#1): #2}\label{#1}\medskip\par}}
+\newcommand{\NL}[1]{%
+ \marginpar[\raggedleft\tiny #1]{\raggedright\tiny #1}}
+
+
+
+ \newenvironment{absolutelynopagebreak}
+  {\par\nobreak\vfil\penalty0\vfilneg
+   \vtop\bgroup}
+  {\par\xdef\tpd{\the\prevdepth}\egroup
+   \prevdepth=\tpd}
+
+   
+\newcommand{\subtitulo}[1]{\NoCaseChange{\textnormal{\break\Large\itshape#1}}}
+
+\newcommand{\asterisc}{\begin{center}\raisebox{-3pt}{*\,*\,*}\end{center}}
+
+\newcommand{\qb}[1]{\hfil\break\mbox{}\hfill\hbox{\textnormal{[}\,#1}}
+
+
+\newcommand{\forceindent}{\leavevmode{\parindent=1.5em\indent}}
+
+% Da antiga edição
+\makeatletter
+\def\@xfootnote[#1]{%
+  \protected@xdef\@thefnmark{#1}%
+  \@footnotemark\@footnotetext}
+\makeatother
+
+\makeatletter
+\newenvironment{Parskip}{%
+   \par
+   \parskip=0.3\baselineskip \advance\parskip by 0pt plus 2pt
+   \parindent=\z@
+   \def\@listI{\leftmargin\leftmargini
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \let\@listi\@listI
+   \@listi
+   \def\@listii{\leftmargin\leftmarginii
+      \labelwidth\leftmarginii\advance\labelwidth-\labelsep
+      \topsep\z@ \parsep\parskip \itemsep\z@}
+   \def\@listiii{\leftmargin\leftmarginiii
+       \labelwidth\leftmarginiii\advance\labelwidth-\labelsep
+       \topsep\z@ \parsep\parskip \itemsep\z@}
+   \partopsep=\z@
+}{\par}
+\makeatother
+
+
+
+
