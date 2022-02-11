@@ -1,6 +1,6 @@
 \documentclass[showtrims,		% Mostra as marcas de corte em cruz
 			   %trimframe,		% Mostra as marcas de corte em linha, para conferência
-			   9pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
+			   10pt				% 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, 20pt 
 			   ]{memoir}
 \usepackage[brazilian,
 			% english,
@@ -72,8 +72,10 @@
 % Fontes
 \newfontfamily\formular{Formular}
 \newfontfamily\formularlight{Formular Light}
-\setmainfont{Linux Libertine O}
-
+%\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Linux Libertine O}
+\setmainfont[Numbers={Proportional,OldStyle}]{EBGaramond-Regular}[
+BoldFont = EBGaramond-Bold,
+ItalicFont = EBGaramond-Italic]
 
 % Estilos
 \makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{\leftmark}}}{}
