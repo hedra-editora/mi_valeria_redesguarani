@@ -141,4 +141,16 @@
 
 
 
+\newcommand{\autorcapitulo}[1]{\hfill
+  \begin{minipage}{.6\textwidth}
+  \begin{flushright}\MakeTextLowercase{{\scshape #1}}\end{flushright}
+  \end{minipage}
+\bigskip\par}
+
+\newcommand{\chapterspecial}[3]{%
+  \chapter[#1\ifx#3\relax\else\emph{\small, por #3}\fi]%
+      {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
+  \ifx#3\relax\else\autorcapitulo{#3}\fi
+\markboth{#1}{#3}}
+
 
